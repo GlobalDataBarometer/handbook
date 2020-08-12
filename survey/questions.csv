@@ -1,0 +1,10 @@
+Section ID,QuestionNumber,Question ID,Question,Type,Parent ID,SubQuestionsFirst,CSSClass,Guidance10,Guidance5,Guidance0,WantConfidence,WantJustification,JustificationNote,HasPrivateNotes,WantExamples,Multiplier,Option0,Option1,Option2,Option3,Option4,Option5,Option6,Option7,Option8,Option9,Supporting0,Supporting1,Supporting2,Supporting3,Supporting4,Supporting5,HelpLink
+CORPORATE,,G.CORPORATE.REGISTER,"To what extent is there a robust framework for the maintenance of a detailed, open and updated company register?",Sum,,Yes,,,,,,Yes,,,Yes,,,,,,,,,,,,,,,,,,https://github.com/GlobalDataBarometer/handbook/blob/master/docs/G.CORPORATE.REGISTER.md
+CORPORATE,,G.CORPORATE.REGISTER.a1,What is the nature of this framework?,Radio,G.CORPORATE.REGISTER,,radio-list,,,,,,,,,,No framework exists,A framework exists but lacks force of law,A framework exists and has the force of law,,,,,,,,,,,,,,
+CORPORATE,,G.CORPORATE.REGISTER.b1,Framework requires structured data on companies,Option,G.CORPORATE.REGISTER,,,,,,,,,,,0.5,No,Partially,Yes,,,,,,,,,,,,,,
+CORPORATE,,G.CORPORATE.REGISTER.b2,Framework requires regular updates,Option,G.CORPORATE.REGISTER,,,,,,,,,,,0.5,No,Partially,Yes,,,,,,,,,,,,,,
+CORPORATE,,G.CORPORATE.REGISTER.b3,Corporate Ownership as Open Data,Option,G.CORPORATE.REGISTER,,,,,,,,,,,0.5,No,Partially,Yes,,,,,,,,,,,,,,
+CORPORATE,,G.CORPORATE.REGISTER.b4,Framework requires structured data on directors and shareholders,Option,G.CORPORATE.REGISTER,,,,,,,,,,,0.5,No,Partially,Yes,,,,,,,,,,,,,,
+CORPORATE,,G.CORPORATE.REGISTER.c1,What does the framework cover?,Radio,G.CORPORATE.REGISTER,,radio-list,,,,,,,,,,,,,,,,,,,,,,,,,,
+GOVERNANCE,,G.GOVERNANCE.DATASHARING,__To what extent is there a robust regulatory framework to facilitate data sharing for the public good in the country?__,Sum,,Yes,,,,,,Yes,,,Yes,,,,,,,,,,,,,,,,,,https://github.com/GlobalDataBarometer/handbook/blob/master/docs/G.GOVERNANCE.DATASHARING.md
+GOVERNANCE,,G.GOVERNANCE.DATASHARING.a1,,Radio,G.GOVERNANCE.DATASHARING,,radio-list,,,,,,,,,,No framework exists,A framework exists but lacks force of law,A framework exists and has the force of law,,,,,,,,,,,,,,
