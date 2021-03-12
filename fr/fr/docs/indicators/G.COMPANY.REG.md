@@ -1,7 +1,7 @@
 # Governance: Company registration details
 
 
-!!! question "Feedback on draft Global Data Barometer Indicators" You are looking at a draft indicator to be included in the expert survey of the Global Data Barometer. Between now and April 16th we are inviting your feedback on this indicator and the elements it contains. You can provide your feedback by (a) completing this form; or (b) adding in-line annotations. The survey asks the question: To what extent do relevant laws, policies, regulations and guidance provide a basis for collecting and publishing structured data from company registers?
+!!! question "Feedback on draft Global Data Barometer Indicators" You are looking at a draft indicator to be included in the expert survey of the Global Data Barometer. Between now and April 16th we are inviting your feedback on this indicator and the elements it contains. You can provide your feedback by (a) completing this form; or (b) adding in-line annotations. The survey asks the question: Dans quelle mesure les lois, politiques, règlements et directives pertinents peuvent-ils servir de base à la collecte et à la publication de données structurées provenant des registres des entreprises?
 
 
 
@@ -41,13 +41,13 @@
         - For recent updates to company registration laws in the country.
         - The website of the company registration agency for details of how they collect and manage data, and the basis of this in law or regulation.
         - For examples of current forms used to register a company.
-    - **Consult:**
-        - People who have recently formed a company may be able to describe the process
-        - Company registration agents
+    - **Consulter :**
+        - Les personnes qui ont récemment formé une entreprise peuvent décrire le processus
+        - Agents d'enregistrement de l'entreprise
 
-    **National and sub-national considerations**
+    **Considérations nationales et sous-nationales**
 
-    In some countries company registration is a **sub-national responsibility,** carried out by individual states, regions or cities.
+    Dans certains pays, l'enregistrement de l'entreprise est une **responsabilité sous-nationale,** effectuée par des états, régions ou villes individuels.
 
     To achieve the highest scores on this indicator, there should be a framework that will support access to data about **all companies** in a country. This might be achieved by:
 
