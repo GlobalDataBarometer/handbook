@@ -8,7 +8,7 @@
     * Availability
     * Use and impact
 * By theme
-    * Company Information
+    * Procurement
 
 ## Draft
 
@@ -18,7 +18,7 @@
     * Availability
     * Use and impact
 * By theme
-    * Company Information
+    * Procurement
 
 ## Candidate
 
@@ -28,26 +28,20 @@
     * Availability
     * Use and impact
 * By theme
-    * Company Information
+    * Procurement
 
 ## All
 
 
 * By component
     * Governance
-        * [Governance: Company registration details](../indicators/G.COMPANY.REG.md) (G.COMPANY.REG)
-        * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md) (G.COMPANY.BOT)
+        * [Governance: Public procurement data](../indicators/G.PROCUREMENT.PROC-POLICY.md) (G.PROCUREMENT.PROC-POLICY)
     * Availability
-        * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md) (A.COMPANY.BOT)
-        * [Availability: Company register](../indicators/A.COMPANY.REG.md) (A.COMPANY.REG)
+        * \[Availability: Public Procurement Data\](../indicators/A.PROCUREMENT.Open Contracting.md) (A.PROCUREMENT.Open Contracting)
     * Use and impact
-        * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md) (U.COMPANY.DUEDIL)
-        * [Use: Media and civil investigations](../indicators/U.COMPANY.MEDIA.md) (U.COMPANY.MEDIA)
+        * \[Use: Procurement Data - Government Analytics\](../indicators/U.PROCUREMENT.Government procurement analytics.md) (U.PROCUREMENT.Government procurement analytics)
 * By theme
-    * Company Information
-        * [Governance: Company registration details](../indicators/G.COMPANY.REG.md) (G.COMPANY.REG)
-        * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md) (G.COMPANY.BOT)
-        * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md) (A.COMPANY.BOT)
-        * [Availability: Company register](../indicators/A.COMPANY.REG.md) (A.COMPANY.REG)
-        * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md) (U.COMPANY.DUEDIL)
-        * [Use: Media and civil investigations](../indicators/U.COMPANY.MEDIA.md) (U.COMPANY.MEDIA)
+    * Procurement
+        * [Governance: Public procurement data](../indicators/G.PROCUREMENT.PROC-POLICY.md) (G.PROCUREMENT.PROC-POLICY)
+        * \[Availability: Public Procurement Data\](../indicators/A.PROCUREMENT.Open Contracting.md) (A.PROCUREMENT.Open Contracting)
+        * \[Use: Procurement Data - Government Analytics\](../indicators/U.PROCUREMENT.Government procurement analytics.md) (U.PROCUREMENT.Government procurement analytics)
