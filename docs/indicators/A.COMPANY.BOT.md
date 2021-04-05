@@ -1,14 +1,13 @@
 # Availability: Beneficial ownership 
 
-
-!!! question "Feedback on draft Global Data Barometer Indicators"
-    You are looking at a draft indicator to be included in the expert survey of the Global Data Barometer. Between now and April 16th we are inviting your feedback on this indicator and the elements it contains. 
-    You can provide your feedback by (a) completing this form; or (b) adding in-line annotations.
+    
 The survey asks the question: To what extent is company beneficial ownership information available as structured open data? 
 
+{% include "feedback.md" %}
 
     
 === "Definitions"
+
     **Definitions and Identification**
     
     A beneficial ownership register should contain details of the **natural persons** who have an **ownership or control stake** in registered companies.
@@ -54,19 +53,11 @@ The survey asks the question: To what extent is company beneficial ownership inf
     **Existence**
     
     * **Is this data available online in any form?**
-    
-        * Data is not available online
+        * Data is not available online <span class="supporting_question">Are there other offline ways to access this data in the country? (e.g. attending an office to inspect it)</span>
         * Data is available, but not as a result of government action
         * Data is available from government, or because of government actions
-    
-        > **Supporting questions** (conditional)
-    
-        > 0;Are there other offline ways to access this data in the country? (e.g. attending an office to inspect it)
-    
-        > 1;If government is not providing access to data, how is this data available? 
-    
-        > 1,2;Please provide a URL for where this data can be found
-    
+     
+
     **Elements**
     
     **Part 1: Dataset specific**
@@ -156,4 +147,5 @@ The survey asks the question: To what extent is company beneficial ownership inf
 
 
 === "Indicator Justification"
+
      See the justification for [Governance: Beneficial Ownership](https://www.notion.so/Governance-Beneficial-ownership-0398cd5580ce40798a0bc55960da18b2).

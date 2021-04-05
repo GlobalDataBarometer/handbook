@@ -124,6 +124,9 @@
 }
 
 .image_example {
-    border:1px solid black;
-    
+    border:1px solid black;   
+}
+
+a.toggle_sup_q {
+    float: right;
 }

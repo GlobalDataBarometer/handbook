@@ -1,8 +1,15 @@
 site_name: Global Data Barometer Handbook
 theme:
   name: material
+  features:
+    - navigation.instant
+  palette:
+    primary: cyan
+  logo: img/gdb-5.png
 plugins:
   - search
+  - literate-nav:
+      nav_file: menu.md
   - macros:
       include_dir: docs/includes
   - print-site
@@ -11,8 +18,13 @@ markdown_extensions:
   - attr_list
   - pymdownx.tabbed
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid-experimental
+          format: !!python/name:pymdownx.superfences.fence_code_format
 extra_javascript:
   - https://hypothes.is/embed.js
+  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
 extra_css:
   - custom.css
