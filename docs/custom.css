@@ -130,3 +130,17 @@
 a.toggle_sup_q {
     float: right;
 }
+
+
+
+#print-site-page > .question {
+    display:none;
+}
+
+#print-site-page > .md-typeset .tabbed-set {
+    display:block;
+}
+
+#print-site-page > .md-typeset .tabbed-content {
+    display:block;
+}
