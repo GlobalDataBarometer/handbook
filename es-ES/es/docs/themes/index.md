@@ -15,7 +15,7 @@ Modules in this category include:
 * **\[Political Integrity\](Political Integrity.md)** - developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
 * **\[Company Information\](Company Information.md)** - developed with [Open Ownership](https://www.openownership.org/)
 * **[Procurement](Procurement.md)** - developed with [the Open Contracting Partnership](https://www.open-contracting.org)
-* **\[Land Governance\](Land Governance.md)** - developed with [Land Porta](https://www.landportal.org)
+* **[Land](Land.md)** - developed with [Land Portal](https://www.landportal.org)
 * **\[Climate Action\](Climate Action.md)**
 * **[Health](Health.md)** & **[COVID-19](COVID-19.md)** - developed with input from the [Open Data Charter](https://opendatacharter.net/) / [D4D](https://www.d4d.net/)
 
@@ -40,5 +40,3 @@ These modules may have primarily indicators in future editions, but to manage th
 **Not included in 2021** - where we carried out initial scoping, but have not produced final indictors for the pilot edition.
 
 * [Telecommunications](Telecommunications.md)
-
-
