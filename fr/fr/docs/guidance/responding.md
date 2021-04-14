@@ -6,7 +6,16 @@ Indicators are made up of a number of discrete sub-questions, which will generat
 
 Typically, indicator sub-questions are organised in three sections: **existence**, **elements**, and **extent**, and each indicator has a **research journal** and **supporting evidence** section.
 
+## Question status and confidence
+### Status
 
+At the top of each indicator you have a space to indicate the status of your research. You can mark it as 'Not started', 'Draft' or 'Complete'. Reviewers will be able to also mark content as 'Reviewed'.
+
+You can use this to keep track of your research work. The completed status of indicators is also visible to your research coordinator in their management dashboard.
+
+### Confidence
+
+For each indicator you can provide a personal assessment of your confidence in the answers you have given. This is a useful way of indicating to yourself and to reviewers whether you feel that the answers are highly likely to be accurate, or if you have concerns that you have not been able to confirm all the answers given in the time available for research. You should use the research journal to briefly record reasons for any indicators where you have low confidence in the accuracy of your answer.
 
 ## The research journal
 
@@ -68,6 +77,15 @@ A capability question might ask whether a country’s data science training is a
 
 An availability question might ask whether a dataset that scores highly in the elements checklist is an exceptional outlier in a federal system, or an example of the norm.
 
+## Supporting evidence
+
+A number of questions may display conditional prompts asking you to provide 'in-context' supporting information, including:
+
+* URLs to specific datasets, policies or documents
+* A list of formats that a dataset is available in
+* Short answers, such as percentage thresholds for disclosure etc.
+
+Any supporting information and URLs you provide here do not need to be repeated in the justification and sources, unless doing so supports the overall justification text.
 ## Justifications & sources
 
 For every indicator, researchers should provide a list of the supporting evidence used and write a short prose explanation of the example assessed, and how certain judgements have been made.
