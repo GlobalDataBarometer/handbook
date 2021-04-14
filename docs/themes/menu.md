@@ -1,0 +1,19 @@
+* [Overview](index.md)
+* Comprehensive modules
+    * [Political Integrity](Political Integrity.md)
+    * [Company Information](Company Information.md)
+    * [Procurement](Procurement.md)
+    * [Land](Land.md)
+    * [Climate Action](Climate Action.md)
+    * [Health](Health.md)
+    * [COVID-19](COVID-19.md)
+* Short modules
+    * [Energy Data](Energy.md)
+    * [Geospatial](Geospatial.md)
+    * [Transportation](Transportation.md)
+    * [Crime and Justice](Crime and Justice.md)
+* Secondary data only
+    * [Agriculture](Agriculture.md)
+    * [Education](Education.md)
+* Not included in 2021
+    * [Telecommunications](Telecommunications.md)

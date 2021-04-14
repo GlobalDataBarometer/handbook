@@ -1,13 +1,11 @@
 * [Indicators](index.md)
-* Governance 
-* Company Informati 
+* Company Information 
     * [Governance: Company registration details](../indicators/G.COMPANY.REG.md)
     * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md)
     * [Availability: Company register](../indicators/A.COMPANY.REG.md)
     * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
     * [Use: Media and civil investigations](../indicators/U.COMPANY.MEDIA.md)
     * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
-* General 
 * Political Integrity 
     * [Governance: Lobbying register](../indicators/G.POLITICAL.LOBBY-GOV.md)
     * [Governance: Public consultation data](../indicators/G.POLITICAL.PUBCON-GOV.md)
@@ -38,19 +36,16 @@
     * [Availability: Biodiversity](../indicators/A.CLIMATE.BIO-AVA.md)
     * [Availability: Vulnerability](../indicators/A.CLIMATE.VUL-AVA.md)
     * [Use: Local adaptation ](../indicators/U.CLIMATE.ADA-USE.md)
-* Migration 
 * Transportation 
     * [Availability: Road Traffic Accidents](../indicators/A.TRANSPORTATION.cdb114c1777c.md)
 * Energy 
     * [Availability: Energy generation](../indicators/A.ENERGY.EG-AVA.md)
     * [Availability: Electricity distribution](../indicators/A.ENERGY.ED-AVA.md)
-* Geospatial 
 * Health 
     * [Availability: Vital statistics](../indicators/A.HEALTH.CRVS-AVA.md)
     * [Availability: Real-time healthcare system capacity](../indicators/A.HEALTH.RTC-AVA.md)
     * [Use: Data-informed health decisions](../indicators/U.HEALTH.DHD-USE.md)
     * [Governance: Health data](../indicators/G.HEALTH.HEA-GOV.md)
-* Public Finance 
 * Crime and Justice 
     * [Availability: VAW data](../indicators/A.CRIME.CJ-VAW-AVA.md)
 * Tourism & Leisure 
