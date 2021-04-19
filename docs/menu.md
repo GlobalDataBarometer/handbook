@@ -1,4 +1,4 @@
 * [Home](/)
-* [Guidance](guidance/)
-* [Indicators](indicators/)
 * [Themes](themes/)
+* [Indicators](indicators/)
+* [Guidance](guidance/)

@@ -1,6 +1,7 @@
 site_name: Global Data Barometer Handbook
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tracking
