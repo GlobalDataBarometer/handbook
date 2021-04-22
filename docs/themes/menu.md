@@ -1,5 +1,5 @@
 * [Overview](index.md)
-* In-depth modules
+* Expanded modules
     * [Political Integrity](Political Integrity.md)
     * [Company Information](Company Information.md)
     * [Procurement](Procurement.md)

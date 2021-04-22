@@ -1,16 +1,12 @@
 # Thematic modules
 
-Data policies and practices are transforming almost every aspect of modern life. The Global Data Barometer explores data in context through a number of thematic modules, looking at the connection between specific data governance, availability and use practices.
+We have organised development of indicators for the Global Data Barometer into thematic modules. These modules collect together related indicators that we anticipate researchers will address together. Modules vary in scale, although the influence of thematic modules on the overall Barometer score will be balanced through weighted aggregation. 
 
-Each theme has been selected and developed based on:
+The governance and capability modules provide a country-wide assessment of the environment supporting data for the public good. The availability and use components of the overall Barometer are measured primarily through thematic modules. 
 
-* **Potential uses of data for the public good** - drawing on the Sustainable Development Goals to explore how thematic data may be governed and used to support development and public good;
-* **Demand for metrics** - working with partners to understand the use cases for global indicators on data governance, availability or use;
-* **Contributions to a rounded picture of national data landscapes** - including maintaining continuity where possible to the data categories assessed in the Open Data Barometer.
+The overall selection of thematic modules has been based on achieving coverage of a range of functions of government, and a range of sustainable development goals, as well as responding to partnership opportunities to develop in depth thematic assessments. 
 
-For the pilot edition of the Global Data Barometer, we have developed a number of in-depth thematic or cross-cutting modules, carrying out a development process with partners to understand key data needs, design prospective indicators, and anchor Barometer metrics in existing literature and international agreements. A number of these modules are supported by detailed background papers or notes that illustrate the considerations driving indicator design. 
-
-Below you can access the justification for inclusion of each module, along with the proposed primary indicators. Note: modules may also draw on secondary data which is not listed here. 
+The following larger modules have been developed with partners, and/or are supported by detailed background notes:
 
 * **[Political Integrity](Political Integrity.md)** - developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
 * **[Company Information](Company Information.md)** - developed with [Open Ownership](https://www.openownership.org/)
@@ -20,8 +16,9 @@ Below you can access the justification for inclusion of each module, along with 
 * **[Climate Action](Climate Action.md)**
 * **[Health](Health.md)** & **[COVID-19](COVID-19.md)** - developed with input from the [Open Data Charter](https://opendatacharter.net/) / [D4D](https://www.d4d.net/)
 * **[Data Governance](Governance.md)** - developed as a cross-cutting module. 
+* **[Data Governance](Capabilities.md)** - developed as a cross-cutting module. 
 
-Additionally, we are proposing to include selected indicators on the following themes, primarily for continuity with the Open Data Barometer and to ensure a broad range of themes are covered by the Barometer:
+To complete the spread of thematic areas addressed in the pilot edition of the Global Data Barometer, to respond to demand from our research network, and to provide continuity with the Open Data Barometer where possible, the Barometer will also include availability indicators for the following themes in our primary survey. You will find brief notes on the reasons for including these themes, and their scope, in the pages below. However, full development documents have not been prepared for these.  
 
 * [Energy Data](Energy.md)
 * [Geospatial](Geospatial.md)
