@@ -8,6 +8,7 @@
     * [Health](Health.md)
     * [COVID-19](COVID-19.md)
     * [Governance](Governance.md)
+    * [Capabilities](Capabilities.md)
 * Short modules
     * [Energy Data](Energy.md)
     * [Geospatial](Geospatial.md)
