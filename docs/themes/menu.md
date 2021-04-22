@@ -1,4 +1,4 @@
-* [Overview](index.md)
+* [Theme overview](index.md)
 * Expanded modules
     * [Political Integrity](Political Integrity.md)
     * [Company Information](Company Information.md)
@@ -12,6 +12,7 @@
     * [Energy Data](Energy.md)
     * [Geospatial](Geospatial.md)
     * [Transportation](Transportation.md)
+    * [Migration](Migration.md)
     * [Crime and Justice](Crime and Justice.md)
     * [Agriculture](Agriculture.md)
     * [Education](Education.md)

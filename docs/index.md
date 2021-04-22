@@ -18,7 +18,16 @@ The Barometer gathers both country-wide indicators, looking broadly at data gove
 *   Test the collection of indicator data that can be used by companion products to the overall Barometer index, maximising the re-use value of the data we collect.
 
 This handbook contains only the draft primary indicators for our upcoming expert survey. A more complete list of indicators including proposed secondary data use will be released later in 2021.
+## 2021 Pilot Edition
 
+This 2021 Edition of the Global Data Barometer is being approached as a pilot in order to explore:
+
+* Running the study through a network of regional hubs; 
+* Expanding beyond an open data focus to look at data for the public good;
+* New indicator designs and research guidance;
+* Partnership models for developing, reviewing and using indicator data.
+
+Learning from this edition will provide the basis for long-term planning to be able to carry out the Barometer study in future years. 
 ## Indicator Development
 
 Following the project design workshop in January 2020, and early pilot work in Summer 2020, we have explored an approach to indicator development that seeks to: 
@@ -28,6 +37,7 @@ Following the project design workshop in January 2020, and early pilot work in S
 *  **Identify bright spots and recognise different systems of government.** In particular, we have sought to increase the sensitivity of indicators to federal systems, and to cases where good practice may exist at an agency or sub-national level, even if the practice is not yet widespread. We have also sought to avoid cultural or high-income country biases in the design of indicators through look for examples and evidence from a wide range of settings. However, during this consultation phase we particularly welcome feedback to ensure indicators are framed to provide fair assessment across all country contexts.  
 *   **Generate actionable data.** For a number of themes, we have worked with partners to understand how they might use primary data from the Global Data Barometer, and to ensure data points can support improved government practice.
 
+The [indicators page](indicators/) contains a full list of candidate primary survey indicators for inclusion in the 2021 Pilot edition of the Barometer. Following this feedback stage, we may edit, update or remove specific indicators from the pilot. 
 ## Theme Selection
 
 On the [themes](themes/) page you can find a list of the different modules that our expert survey researchers will be asked to provide data on. These modules collect together related indicators that we anticipate researchers will address together. Modules vary in scale, although the influence of thematic modules on the overall Barometer score will be balanced through weighted aggregation. 

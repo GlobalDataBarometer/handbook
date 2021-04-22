@@ -1,4 +1,4 @@
-# Thematic modules
+# Themes
 
 We have organised development of indicators for the Global Data Barometer into thematic modules. These modules collect together related indicators that we anticipate researchers will address together. Modules vary in scale, although the influence of thematic modules on the overall Barometer score will be balanced through weighted aggregation. 
 
@@ -16,14 +16,20 @@ The following larger modules have been developed with partners, and/or are suppo
 * **[Climate Action](Climate Action.md)**
 * **[Health](Health.md)** & **[COVID-19](COVID-19.md)** - developed with input from the [Open Data Charter](https://opendatacharter.net/) / [D4D](https://www.d4d.net/)
 * **[Data Governance](Governance.md)** - developed as a cross-cutting module. 
-* **[Data Governance](Capabilities.md)** - developed as a cross-cutting module. 
+* **[Capabilities](Capabilities.md)** - developed as a cross-cutting module. 
 
 To complete the spread of thematic areas addressed in the pilot edition of the Global Data Barometer, to respond to demand from our research network, and to provide continuity with the Open Data Barometer where possible, the Barometer will also include availability indicators for the following themes in our primary survey. You will find brief notes on the reasons for including these themes, and their scope, in the pages below. However, full development documents have not been prepared for these.  
 
+* [Crime and Justice](Crime and Justice.md)
 * [Energy Data](Energy.md)
 * [Geospatial](Geospatial.md)
+* [Migration](Migration.md);
 * [Transportation](Transportation.md)
-* [Crime and Justice](Crime and Justice.md)
+
+
+
+
+
 * [Agriculture](Agriculture.md) (Secondary data only)
 * [Education](Education.md) (Secondary data only)
 
