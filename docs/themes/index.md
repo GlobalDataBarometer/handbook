@@ -23,15 +23,15 @@ To complete the spread of thematic areas addressed in the pilot edition of the G
 * [Crime and Justice](Crime and Justice.md)
 * [Energy Data](Energy.md)
 * [Geospatial](Geospatial.md)
-* [Migration](Migration.md);
+* [Population Data](Population Data.md)
 * [Transportation](Transportation.md)
 
 
 
 
 
-* [Agriculture](Agriculture.md) (Secondary data only)
-* [Education](Education.md) (Secondary data only)
+* [Agriculture](Secondary data only)
+* [Education](Secondary data only)
 
 !!! note "Share your feedback"
 
