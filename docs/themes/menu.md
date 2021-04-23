@@ -2,7 +2,7 @@
 * Components
     * [Governance](Governance.md)
     * [Capabilities](Capabilities.md)
-* Expanded modules
+* Thematic modules
     * [Climate Action](Climate Action.md)
     * [Company Information](Company Information.md)
     * [COVID-19](COVID-19.md)
