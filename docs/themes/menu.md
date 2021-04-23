@@ -13,7 +13,6 @@
     * [Energy Data](Energy.md)
     * [Geospatial](Geospatial.md)
     * [Transportation](Transportation.md)
-    * [Migration](Migration.md)
+    * [Population Data](Migration Data.md)
     * [Crime and Justice](Crime and Justice.md)
-    * [Agriculture](Agriculture.md)
-    * [Education](Education.md)
+    
