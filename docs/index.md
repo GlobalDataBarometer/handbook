@@ -7,11 +7,11 @@ You are viewing the draft Global Data Barometer Research Handbook (2021).
 
 Data is a source of power. It can be exploited for private gain, and used to limit freedom, or it can be deployed as a public good: a resource for tackling social challenges, enabling collaboration, driving innovation and improving accountability. The Global Data Barometer’s goal is to fill critical knowledge gaps on how data policy and practice are unfolding in different sectors, regions, and countries around the world. The design of the Global Data Barometer responds to critical knowledge gaps in how policies and practices of governing, releasing and using data for the public good are unfolding across the globe.
 
-Building on the Open Data Barometer study, which has been used to drive policymaking, advocacy, and academic research across the world, the Global Data Barometer asks: _To what extent are countries managing data for the public good?_
+Building on the [Open Data Barometer study](http://www.opendatabarometer.org), which has been used to drive policymaking, advocacy, and academic research across the world, the Global Data Barometer asks: _To what extent are countries managing data for the public good?_
 
 To answer this question we gather quantitative assessments and qualitative evidence questions, drawing on existing secondary datasets, and our own primary expert survey run through our network of global partners. 
 
-The Barometer gathers both country-wide indicators, looking broadly at data governance, capabilities, availability and use and impact, and thematic indicators that focus on the state of data for public good in relation to specific areas of public policy. This combined breadth and depth approach is designed to:
+The Global Data Barometer gathers both country-wide indicators, looking broadly at data governance, capabilities, availability and use and impact, and thematic indicators that focus on the state of data for public good in relation to specific areas of public policy. This combined breadth and depth approach is designed to:
 
 *   Look at the overall environment for data for the public good in each country studied;
 *   Explore how far assessments of the overall environment are also reflected in practice in particular thematic sectors;
@@ -34,10 +34,13 @@ Following the project design workshop in January 2020, and early pilot work in S
 
 *   **Generate indicator scores through the use of discrete elements.** This is a break from the Open Data Barometer scoring method that asked experts to provide a 0 - 10 score based on a rubrik, and responds both to a desire from partners for more structured, granular data, and to feedback that the previous scoring method led to unexplained variation between assessments. In this draft handbook under each indicator you will see the sub-questions that will be used to generate indicator scores. The exact calculation of scores is not included, and will be shared later in the year following further piloting and consultation. 
 *   **Anchor indicators in established agreements and practices.** For the majority of indicators we have carried a review of the literature and of international standards and agreements to ensure that indicators assess countries against reasonable benchmarks that are rooted in prior international agreements or commitments. In particular, we draw on the Sustainable Development Goals as international agreement on public goods. 
-*  **Identify bright spots and recognise different systems of government.** In particular, we have sought to increase the sensitivity of indicators to federal systems, and to cases where good practice may exist at an agency or sub-national level, even if the practice is not yet widespread. We have also sought to avoid cultural or high-income country biases in the design of indicators through look for examples and evidence from a wide range of settings. However, during this consultation phase we particularly welcome feedback to ensure indicators are framed to provide fair assessment across all country contexts.  
+*  **Identify bright spots and recognise different systems of government.** In particular, we have sought to increase the sensitivity of indicators to federal systems, and to cases where good practice may exist at an agency or sub-national level, even if the practice is not yet widespread. We have also sought to avoid cultural or high-income country biases in the design of indicators through looking for examples and evidence from a wide range of settings. However, during this consultation phase we particularly welcome feedback to ensure indicators are framed to provide fair assessment across all country contexts.  
 *   **Generate actionable data.** For a number of themes, we have worked with partners to understand how they might use primary data from the Global Data Barometer, and to ensure data points can support improved government practice.
 
 The [indicators page](indicators/) contains a full list of candidate primary survey indicators for inclusion in the 2021 Pilot edition of the Barometer. Following this feedback stage, we may edit, update or remove specific indicators from the pilot. 
+
+Certain themes and selected indicator sub-questions in the Global Data Barometer have been selected to build upon the Open Data Barometer, and to provide continuity with the former study’s metrics. This includes Global Data Barometer indicators assessing the presence of open data frameworks and initiatives and checking for many similar categories of dataset. In some cases, we have identified new secondary sources to replace primary Open Data Barometer questions, and so not all Open Data Barometer data categories are reflected in this current handbook. 
+
 ## Theme Selection
 
 On the [themes](themes/) page you can find a list of the different modules that our expert survey researchers will be asked to provide data on. These modules collect together related indicators that we anticipate researchers will address together. Modules vary in scale, although the influence of thematic modules on the overall Barometer score will be balanced through weighted aggregation. 
@@ -62,10 +65,14 @@ To complete the spread of thematic areas addressed in the pilot edition of the G
 * Crime and Justice;
 * Energy Data; 
 * Geospatial Data;
-* Migration;
+* Population Data;
 * Transportation.
 
 We have also identified secondary sources for availability indicators on education and agriculture. 
+
+This pilot GDB edition will explore emerging practices around artificial Intelligence (AI). The development and application of AI relies heavily on access to data. It's vital to understand which countries are collecting and providing AI-ready datasets, and to track how governance frameworks address these emerging challenges. This exploration will be addressed by combining secondary data sources and existing indexes in AI, as well as through primary data, drawing mainly on data governance indicators, as well as tracking algorithmic uses of data for public good in different sectors, making AI a cross cutting theme along GDB.
+
+The public good is an inclusive concept. It cannot be fully secured when certain groups are: underrepresented in data in ways that affect their interests and wellbeing; largely denied the ability to access and use data to shape their own lives; or denied the ability to shape public debate and policy. Starting from the recognition that many technology communities suffer significant gender and racial biases (with dataset design and analysis often overwhelmingly male dominated), and that many data collection practices either embed significant biases, or lack important differentiation that would support marginalised groups to advocate for their interests, Global Data Barometer metrics and analysis need to be particularly sensitive to gender and inclusion issues. We have designed survey questions to address these issues as another cross-cutting theme in the Global Data Barometer. In this public document that was released for open consultation you will find more information on how we are working on these questions. 
 
 ## Handbook Structure
 

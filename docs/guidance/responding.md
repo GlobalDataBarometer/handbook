@@ -6,6 +6,12 @@ Indicators are made up of a number of discrete sub-questions, which will generat
 
 Typically, indicator sub-questions are organised in three sections: **existence**, **elements**, and **extent**, and each indicator has a **research journal** and **supporting evidence** section. 
 
+
+## Survey tool basics
+
+The survey tool saves your work as you go. You do not need to hit a save or submit button for updates to be saved. If you are temporarily disconnected from the Internet, responses are cached and uploaded once you are connected again. 
+
+Only one person can be working on each country survey at a time. There is a locking mechanism that will prevent multiple people editing at once. 
 ## Question status and confidence
 ### Status
 
@@ -55,9 +61,9 @@ If the researcher confirms that the focus of the indicator does not exist, or th
 
 ### Locating the best example
 
-Unless otherwise specific in indicator guidance, researchers should first look for **national examples** (e.g. national law, nationally provided dataset) **from government**. 
+Unless otherwise specified in indicator guidance, researchers should first look for **national examples** (e.g. national law, nationally provided dataset) **from the government**. 
 
-If no such example is identified, or the example identified appears weak (e.g. many other sub-questions are answered 'No'), the researcher should check for the presence of sub-national examples, or in the case of datasets, examples of data provided other than by government. 
+If no such example is identified, or the example identified appears weak (e.g. many other sub-questions are answered 'No'), the researcher should check for the presence of sub-national examples, or in the case of datasets, examples of data provided other than by the government. 
 
 ## Element sub-questions
 
