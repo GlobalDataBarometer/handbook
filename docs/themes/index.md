@@ -25,13 +25,8 @@ To complete the spread of thematic areas addressed in the pilot edition of the G
 * [Geospatial](Geospatial.md)
 * [Population Data](Population Data.md)
 * [Transportation](Transportation.md)
-
-
-
-
-
-* Agriculture(Secondary data only)
-* Education(Secondary data only)
+* Agriculture (Secondary data only)
+* Education (Secondary data only)
 
 !!! note "Share your feedback"
 
