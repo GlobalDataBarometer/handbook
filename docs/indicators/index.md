@@ -4,7 +4,7 @@ The Global Data Barometer combines primary and secondary indicators. This sectio
 
 !!! note "How to share your feedback"
 
-    You can browse the list of indicators by Global Data Barometer Component (Governance, Capability, Availability, Use and Impact) in the list below, or by theme from the site menu.
+    You can browse the list of indicators in the list below, or by theme from the site menu.
 
     Look at the overall indicator question, the definition that will be presented to researcher, and the sub-questions.
 
