@@ -30,8 +30,8 @@ To complete the spread of thematic areas addressed in the pilot edition of the G
 
 
 
-* [Agriculture](Secondary data only)
-* [Education](Secondary data only)
+* Agriculture(Secondary data only)
+* Education(Secondary data only)
 
 !!! note "Share your feedback"
 
