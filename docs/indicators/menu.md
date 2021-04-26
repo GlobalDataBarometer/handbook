@@ -73,7 +73,7 @@
         * [Governance: Spatial Data Infrastructure](../indicators/G.GEO.SDI.md)
         * [Use: Geospatial economic use](../indicators/U.GEO.ECON.md)
     * Population Data 
-        * [Availability: Population data](../indicators/A.POPULATION.POPULATION.md)
+        * [Availability: Population](../indicators/A.POPULATION.POPULATION.md)
     * Transportation 
         * [Availability: Road Traffic Accidents](../indicators/A.TRANSPORTATION.RTA.md)
         * [Availability: Public transport timetables](../indicators/A.TRANSPORTATION.TRANSIT.md)
