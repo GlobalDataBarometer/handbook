@@ -1,4 +1,6 @@
-* [Indicators](index.md)
+
+## Core modules
+
 * Governance 
     * [Governance: Data Protection](../indicators/G.GOVERNANCE.DPL.md)
     * [Governance: Open Data Initiative](../indicators/G.GOVERNANCE.ODINIT.md)
@@ -11,6 +13,8 @@
     * [Training: Civil Service](../indicators/C.CAPABILITIES.TRAIN.md)
     * [Capability: Sub-National](../indicators/C.CAPABILITIES.SUBNAT.md)
     * [Capability: Government support for re-use](../indicators/C.CAPABILITIES.GOVSUPPORT.md)
+## Thematic modules
+
 * Company Information 
     * [Governance: Company registration details](../indicators/G.COMPANY.REG.md)
     * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md)
@@ -58,6 +62,8 @@
     * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)
 * Public Finance 
     * [Governance: Open Public Finance Data](../indicators/G.PF.PUB-FINANCE.md)
+## Snapshot modules
+
 * Crime and Justice 
     * [Availability: Sentencing data](../indicators/A.JUSTICE.SENTENCE.md)
     * [Availability: VAW data](../indicators/A.JUSTICE.VAW.md)
