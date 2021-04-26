@@ -1,5 +1,4 @@
 * [Home](index.md)
     * [Providing feedback](annotate.md)
 * [Themes](themes/)
-* [Indicators](indicators/)
 * [Guidance](guidance/)
