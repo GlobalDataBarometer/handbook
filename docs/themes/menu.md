@@ -10,7 +10,7 @@
     * [Land](Land.md)
     * [Political Integrity](Political Integrity.md)
     * [Public Procurement](Public Procurement.md)
-* Short modules
+* Snapshot modules
     * [Crime and Justice](Crime and Justice.md)
     * [Energy Data](Energy.md)
     * [Geospatial](Geospatial.md)
