@@ -14,5 +14,5 @@
     * [Crime and Justice](Crime and Justice.md)
     * [Energy](Energy.md)
     * [Geospatial](Geospatial.md)
-    * [Population](Population Data.md)
+    * [Population](Population.md)
     * [Transportation](Transportation.md)
