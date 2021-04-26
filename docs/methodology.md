@@ -1,14 +1,14 @@
 # Methodology
 
 
-# Methodology - Overview[¶](http://handbook.globaldatabarometer.org/guidance/#general-guidance)
+## Overview[](http://handbook.globaldatabarometer.org/methodology)
 
 This overview is intended for both researchers and reviewers involved in generating and validating the Barometer's survey data, as well as a reference for those seeking to understand the overall approach of the Barometer and the data that the study will produce. 
 
 As the Global Data Barometer investigates data policies and practices across the data spectrum, particularly those that can be influenced by government action, before moving forward into the modules and indicators, it is important to be familiar with foundation concepts behind the Barometer: the [Data Spectrum](https://theodi.org/about-the-odi/the-data-spectrum/), the [Open Data Barometer,](https://opendatabarometer.org/) and the [Open Data Charter Principles](https://opendatacharter.net/principles/).
 
 
-## Design Principles[¶](http://handbook.globaldatabarometer.org/guidance/structure/#design-principles)
+## Design Principles[](http://handbook.globaldatabarometer.org/guidance/structure/#design-principles)
 
 The structure of the Barometer - the modules, indicators, and scoring - have been developed to respond to a specific set of design principles.
 
@@ -24,7 +24,7 @@ The highest scores in the Barometer are achieved when governance, capability, av
 
 The Barometer has adopted a 'bright spots' design approach with the intention of collecting data on leading examples of good practice, even if the practice is not yet universal within a country.
 
-Structure & Process[¶](http://handbook.globaldatabarometer.org/guidance/structure/#section-1-barometer-structure-research-process)
+## Structure & Process[](http://handbook.globaldatabarometer.org/guidance/structure/#section-1-barometer-structure-research-process)
 
 The Barometer is a multi-dimensional index, comprised of components and sub-components, which are, in turn, built from composite indicators that combine primary and secondary data. The goal is to develop an overall comparative assessment of the extent to which countries (or regions) govern and use data for the public good; therefore, the Barometer breaks down the concept of data for the public good into various individual components and sub-components, each assessed separately, and then, the results are aggregated into an overall score.
 
@@ -38,8 +38,6 @@ The Global Data Barometer is based around four pillars or foundational areas of 
 *   **Data use and impact** is concerned with finding evidence of particular uses of data and their impact in the country.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![Global Data Barometer Structure: Governance, Capability, Availability, Use & Impact](https://globaldatabarometer.org/wp-content/uploads/2020/12/gdb-infographic.png)
