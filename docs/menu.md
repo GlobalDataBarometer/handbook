@@ -2,3 +2,4 @@
     * [Providing feedback](annotate.md)
 * [Themes](themes/)
 * [Guidance](guidance/)
+* [Indicator list](indicators/)
