@@ -1,13 +1,6 @@
 * [Theme overview](index.md)
 * Core modules
     * [Governance](Governance.md)
-        * [Governance: Data Protection](../indicators/G.GOVERNANCE.DPL.md)
-        * [Governance: Open Data Initiative](../indicators/G.GOVERNANCE.ODINIT.md)
-        * [Governance: Data sharing frameworks](../indicators/G.GOVERNANCE.DATASHARING.md)
-        * [Governance: Open Data Policy](../indicators/G.GOVERNANCE.ODPOLICY.md)
-        * [Governance: Data Management](../indicators/G.GOVERNANCE.DATAMANAGE.md)
-        * [Governance: Accessibility coverage & data](../indicators/G.GOVERNANCE.ACCESSIBILITY.md)
-        * [Governance: Language coverage & data](../indicators/G.GOVERNANCE.LANG.md)
     * [Capabilities](Capabilities.md)
 * Thematic modules
     * [Climate Action](Climate Action.md)
