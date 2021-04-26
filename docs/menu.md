@@ -3,4 +3,4 @@
 * [Methodology](methodology.md)
 * [Modules](themes/)
 * [Guidance](guidance/)
-* [Indicator list](indicators/)
+* [Full Indicator list](indicators/)
