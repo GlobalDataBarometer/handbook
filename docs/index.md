@@ -60,7 +60,7 @@ The overall selection of thematic modules for this pilot edition is based on the
 * **[Land](themes/Land.md)** - developed with the [Land Portal](https://www.landportal.org)
 * **[Political Integrity](themes/Political Integrity.md)** - developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
 * **Public Finance** - developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/)
-* **[Procurement](themes/Procurement.md)** - developed with [the Open Contracting Partnership](https://www.open-contracting.org)
+* **[Public Procurement](themes/Public Procurement.md)** - developed with [the Open Contracting Partnership](https://www.open-contracting.org)
  
 ### Short modules
 In addition to these thematic modules, the GDB contains indicators for several more themes in order to serve the broader data research network and provide continuity with the past editions of the Open Data Barometer:

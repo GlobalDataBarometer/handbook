@@ -11,14 +11,13 @@ The availability and use components of the overall Barometer are measured primar
 
 The following larger modules have been developed with partners, and/or are supported by detailed background notes:
 
-* **[Political Integrity](Political Integrity.md)** - developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
+* **[Climate Action](Climate Action.md)** - developed with the [Open Data Charter](https://opendatacharter.net/)
 * **[Company Information](Company Information.md)** - developed with [Open Ownership](https://www.openownership.org/)
-* **[Procurement](Procurement.md)** - developed with [the Open Contracting Partnership](https://www.open-contracting.org)
-* **[Land](Land.md)** - developed with [Land Portal](https://www.landportal.org)
-* **Public Finance** - under development with GIFT (to be posted by April 30th)
-* **[Climate Action](Climate Action.md)**
 * **[Health](Health.md)** & **[COVID-19](COVID-19.md)** - developed with input from the [Open Data Charter](https://opendatacharter.net/) / [D4D](https://www.d4d.net/)
-
+* **[Political Integrity](Political Integrity.md)** - developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
+* **[Public Procurement](Public Procurement.md)** - developed with [the Open Contracting Partnership](https://www.open-contracting.org)
+* **[Land](Land.md)** - developed with the [Land Portal](https://www.landportal.org)
+* **Public Finance** - under development with GIFT (to be posted by April 30th)
 
 To complete the spread of thematic areas addressed in the pilot edition of the Global Data Barometer, to respond to demand from our research network, and to provide continuity with the Open Data Barometer where possible, the Barometer will also include availability indicators for the following themes in our primary survey. You will find brief notes on the reasons for including these themes, and their scope, in the pages below. However, full development documents have not been prepared for these.  
 

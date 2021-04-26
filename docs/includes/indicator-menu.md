@@ -1,3 +1,4 @@
+* [Indicators](index.md)
 * Governance 
     * [Governance: Data Protection](../indicators/G.GOVERNANCE.DPL.md)
     * [Governance: Open Data Initiative](../indicators/G.GOVERNANCE.ODINIT.md)
@@ -18,7 +19,7 @@
     * [Use: Media and civil investigations](../indicators/U.COMPANY.MEDIA.md)
     * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
 * COVID-19 
-    * [Availability: Vaccination (COVID-19)](../indicators/A.COVID-19.VAC.md)
+    * [Availability: Vaccination (COVID-19)](../indicators/A.COVID.VAC.md)
 * Climate Action 
     * [Availability: Emission](../indicators/A.CLIMATE.EMI.md)
     * [Availability: Biodiversity](../indicators/A.CLIMATE.BIO.md)
@@ -36,38 +37,38 @@
     * [Availability: Planned Land Use](../indicators/A.LAND.PLU.md)
     * [Use: Influencing policy for gender and inclusion](../indicators/U.LAND.GENDERINCLUSION.md)
 * Political Integrity 
-    * [Governance: Lobbying register](../indicators/G.POLITICAL.LOBBY.md)
-    * [Governance: Public consultation data](../indicators/G.POLITICAL.PUBCON.md)
-    * [Governance: Asset declarations](../indicators/G.POLITICAL.IAD.md)
-    * [Governance: Political finance](../indicators/G.POLITICAL.POLFIN.md)
-    * [Governance: RTI performance](../indicators/G.POLITICAL.RTI.md)
-    * [Capability: Literacy: Integrity & accountability data](../indicators/C.POLITICAL.CAP-DL.md)
-    * [Capability: Data skills of gov (PI)](../indicators/C.POLITICAL.GOVSKILLS.md)
-    * [Capability: Political integrity interoperability](../indicators/C.POLITICAL.INTEROP.md)
-    * [Availability: RTI performance data](../indicators/A.POLITICAL.RTI.md)
-    * [Availability: Public consultation data](../indicators/A.POLITICAL.PUBCON.md)
-    * [Availability: Asset declarations](../indicators/A.POLITICAL.IAD.md)
-    * [Availability: Political finance data](../indicators/A.POLITICAL.POLFIN.md)
-    * [Availability: Lobbying data](../indicators/A.POLITICAL.LOBBY.md)
-    * [Use: Participation uses of public data](../indicators/U.POLITICAL.PARTICIPATION.md)
-    * [Use: Accountability uses of PI](../indicators/U.POLITICAL.ACCOUNT.md)
-* Procurement 
+    * [Governance: Lobbying register](../indicators/G.PI.LOBBY.md)
+    * [Governance: Public consultation data](../indicators/G.PI.PUBCON.md)
+    * [Governance: Asset declarations](../indicators/G.PI.IAD.md)
+    * [Governance: Political finance](../indicators/G.PI.POLFIN.md)
+    * [Governance: RTI performance](../indicators/G.PI.RTI.md)
+    * [Capability: Integrity & accountability data literacy](../indicators/C.PI.CAP-DL.md)
+    * [Capability: Data skills of gov (PI)](../indicators/C.PI.GOVSKILLS.md)
+    * [Capability: Political integrity interoperability](../indicators/C.PI.INTEROP.md)
+    * [Availability: RTI performance data](../indicators/A.PI.RTI.md)
+    * [Availability: Public consultation data](../indicators/A.PI.PUBCON.md)
+    * [Availability: Asset declarations](../indicators/A.PI.IAD.md)
+    * [Availability: Political finance data](../indicators/A.PI.POLFIN.md)
+    * [Availability: Lobbying data](../indicators/A.PI.LOBBY.md)
+    * [Use: Participation uses of public data](../indicators/U.PI.PARTICIPATION.md)
+    * [Use: Accountability uses of PI](../indicators/U.PI.ACCOUNT.md)
+* Public Procurement 
     * [Governance: Public procurement data](../indicators/G.PROCUREMENT.OC.md)
     * [Use: Procurement Data Analytics](../indicators/U.PROCUREMENT.ANALYTICS.md)
     * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)
 * Public Finance 
-    * [Governance: Open Public Finance Data](../indicators/G.PUBLIC.PUB-FINANCE.md)
+    * [Governance: Open Public Finance Data](../indicators/G.PF.PUB-FINANCE.md)
 * Crime and Justice 
-    * [Availability: Sentencing data](../indicators/A.CRIME.SENTENCE.md)
-    * [Availability: VAW data](../indicators/A.CRIME.VAW.md)
+    * [Availability: Sentencing data](../indicators/A.JUSTICE.SENTENCE.md)
+    * [Availability: VAW data](../indicators/A.JUSTICE.VAW.md)
 * Energy 
     * [Availability: Energy generation](../indicators/A.ENERGY.GEN.md)
     * [Availability: Electricity distribution](../indicators/A.ENERGY.DIST.md)
 * Geospatial 
-    * [Availability: National Map](../indicators/A.GEOSPATIAL.MAP.md)
-    * [Availability: Functional areas](../indicators/A.GEOSPATIAL.FUNC.md)
-    * [Governance: Spatial Data Infrastructure](../indicators/G.GEOSPATIAL.SDI.md)
-    * [Use: Geospatial economic use](../indicators/U.GEOSPATIAL.ECON.md)
+    * [Availability: National Map](../indicators/A.GEO.MAP.md)
+    * [Availability: Functional areas](../indicators/A.GEO.FUNC.md)
+    * [Governance: Spatial Data Infrastructure](../indicators/G.GEO.SDI.md)
+    * [Use: Geospatial economic use](../indicators/U.GEO.ECON.md)
 * Population Data 
     * [Availability: Population data](../indicators/A.POPULATION.POPULATION.md)
 * Transportation 

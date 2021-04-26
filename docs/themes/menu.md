@@ -1,5 +1,5 @@
 * [Theme overview](index.md)
-* Components
+* Core modules
     * [Governance](Governance.md)
     * [Capabilities](Capabilities.md)
 * Thematic modules
@@ -9,7 +9,7 @@
     * [Health](Health.md)
     * [Land](Land.md)
     * [Political Integrity](Political Integrity.md)
-    * [Procurement](Procurement.md)
+    * [Public Procurement](Public Procurement.md)
 * Short modules
     * [Crime and Justice](Crime and Justice.md)
     * [Energy Data](Energy.md)
