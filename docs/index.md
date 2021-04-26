@@ -54,22 +54,22 @@ Thematic modules
 
 The overall selection of thematic modules for this pilot edition is based on the desire to cover a range of government functions, a range of sustainable development goals, as well as to benefit from the expertise of partners who are contributing to in-depth thematic assessments. Currently, a range of GDB partners are contributing to the development of the following thematic modules:
 
-* **[Climate Action](Climate Action.md)** - developed with the [[Open Data Charter](https://opendatacharter.net/)'
-* **[Company Information](Company Information.md)** - developed with [Open Ownership](https://www.openownership.org/)
-* **[Health](Health.md)** & **[COVID-19](COVID-19.md)** - developed with input from the [Open Data Charter](https://opendatacharter.net/) / [D4D](https://www.d4d.net/)
-* **[Land](Land.md)** - developed with the [Land Portal](https://www.landportal.org)
-* **[Political Integrity](Political Integrity.md)** - developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
+* **[Climate Action](themes/Climate Action.md)** - developed with the [[Open Data Charter](https://opendatacharter.net/)'
+* **[Company Information](themes/Company Information.md)** - developed with [Open Ownership](https://www.openownership.org/)
+* **[Health](themes/Health.md)** & **[COVID-19](themes/COVID-19.md)** - developed with input from the [Open Data Charter](https://opendatacharter.net/) / [D4D](https://www.d4d.net/)
+* **[Land](themes/Land.md)** - developed with the [Land Portal](https://www.landportal.org)
+* **[Political Integrity](themes/Political Integrity.md)** - developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
 * **Public Finance** - developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/)
-* **[Procurement](Procurement.md)** - developed with [the Open Contracting Partnership](https://www.open-contracting.org)
+* **[Procurement](themes/Procurement.md)** - developed with [the Open Contracting Partnership](https://www.open-contracting.org)
  
 ### Short modules
 In addition to these thematic modules, the GDB contains indicators for several more themes in order to serve the broader data research network and provide continuity with the past editions of the Open Data Barometer:
 
-* [Crime and Justice](Crime and Justice.md)
-* [Energy Data](Energy.md)
-* [Geospatial](Geospatial.md)
-* [Population](Population Data.md)
-* [Transportation](Transportation.md)
+* [Crime and Justice](themes/Crime and Justice.md)
+* [Energy Data](themes/Energy.md)
+* [Geospatial](themes/Geospatial.md)
+* [Population](themes/Population Data.md)
+* [Transportation](themes/Transportation.md)
 
 We have also identified secondary sources for availability indicators on education and agriculture.
 
