@@ -1,4 +1,4 @@
-* [Theme overview](index.md)
+* [Module overview](index.md)
 * Core modules
     * [Governance](Governance.md)
     * [Capabilities](Capabilities.md)
@@ -12,8 +12,8 @@
     * [Public Procurement](Public Procurement.md)
 * Snapshot modules
     * [Crime and Justice](Crime and Justice.md)
-    * [Energy Data](Energy.md)
+    * [Energy](Energy.md)
     * [Geospatial](Geospatial.md)
     * [Transportation](Transportation.md)
-    * [Population Data](Population Data.md)
+    * [Population](Population Data.md)
     
