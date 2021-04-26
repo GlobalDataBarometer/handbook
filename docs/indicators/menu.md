@@ -72,7 +72,7 @@
         * [Availability: Functional areas](../indicators/A.GEO.FUNC.md)
         * [Governance: Spatial Data Infrastructure](../indicators/G.GEO.SDI.md)
         * [Use: Geospatial economic use](../indicators/U.GEO.ECON.md)
-    * Population Data 
+    * Population
         * [Availability: Population](../indicators/A.POPULATION.POPULATION.md)
     * Transportation 
         * [Availability: Road Traffic Accidents](../indicators/A.TRANSPORTATION.RTA.md)
