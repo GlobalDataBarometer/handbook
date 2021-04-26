@@ -54,7 +54,7 @@ Thematic modules
 
 The overall selection of thematic modules for this pilot edition is based on the desire to cover a range of government functions, a range of sustainable development goals, as well as to benefit from the expertise of partners who are contributing to in-depth thematic assessments. Currently, a range of GDB partners are contributing to the development of the following thematic modules:
 
-* **[Climate Action](themes/Climate Action.md)** - developed with the [[Open Data Charter](https://opendatacharter.net/)'
+* **[Climate Action](themes/Climate Action.md)** - developed with the [Open Data Charter](https://opendatacharter.net/)
 * **[Company Information](themes/Company Information.md)** - developed with [Open Ownership](https://www.openownership.org/)
 * **[Health](themes/Health.md)** & **[COVID-19](themes/COVID-19.md)** - developed with input from the [Open Data Charter](https://opendatacharter.net/) / [D4D](https://www.d4d.net/)
 * **[Land](themes/Land.md)** - developed with the [Land Portal](https://www.landportal.org)
