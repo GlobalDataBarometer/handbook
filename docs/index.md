@@ -23,7 +23,7 @@ Primary data collection is structured around a selection of country-wide indicat
 This handbook contains the majority of the modules and indicators that will be included in our upcoming expert survey. The complete list of modules and indicators, including proposed secondary data sources, will be released later in 2021. The handbook is a living document to be updated as the pilot edition moves forward in its study of data for the public good.
  
  
-## 2021 Pilot Edition[¶](http://handbook.globaldatabarometer.org/#2021-pilot-edition)
+## 2021 Pilot Edition[](http://handbook.globaldatabarometer.org/#2021-pilot-edition)
  
 This 2021 edition of the Global Data Barometer is being approached as a pilot in order to explore several research innovations:
  
@@ -37,18 +37,18 @@ This 2021 edition of the Global Data Barometer is being approached as a pilot in
 Lessons learned as a result of this pilot edition will be applied directly to future editions of the Barometer.
  
  
-## Themes and Modules[¶](http://handbook.globaldatabarometer.org/#theme-and-module-selection)
+## Themes and Modules[](http://handbook.globaldatabarometer.org/#theme-and-module-selection)
  
 The overall structure of the Barometer was developed following a [participatory design workshop](https://globaldatabarometer.org/2020/01/reporting-back-on-our-first-design-workshop/), which identified four core components, a range of potential themes, and a number of cross-cutting issues to be addressed in the structure of the study.
  
 On the [Themes & Modules](http://handbook.globaldatabarometer.org/themes/) page, you will find a full list of the topics to be covered within the pilot edition for which researchers will be asked to provide primary data. These include core modules, thematic modules, and snapshot modules that target the availability of key data within specific sectors. These modules serve to structure the survey for presentation to researchers, analysts, and potential users of GDB data. Although modules may vary in scope and size, their influence on the overall Barometer score will be balanced through weights applied during index calculations.
  
  
-### Core Modules[¶](http://handbook.globaldatabarometer.org/#components)
+### Core Modules[](http://handbook.globaldatabarometer.org/#components)
  
 Governance and Capability are core components of the Barometer that have been developed as standalone modules, containing a series of primary indicators designed to provide a country-wide assessment of two of the most critical issue areas related to the development of an effective data ecosystem. These modules are complemented by additional indicators on governance and capability within the thematic modules. The other two core components of the Barometer, Availability and Use, are also assessed primarily through the thematic modules. 
  
-Thematic Modules
+### Thematic Modules
  
 The overall selection of thematic modules for this pilot edition of the Barometer has been based on the desire to cover a range of government functions and a range of sustainable development goals, as well as to benefit from the expertise of partners who are contributing to the in-depth thematic modules. Currently, a range of GDB partners are contributing to the development of the following thematic modules:
  
@@ -62,7 +62,7 @@ The overall selection of thematic modules for this pilot edition of the Baromete
 *   **[Public procurement](http://handbook.globaldatabarometer.org/themes/Procurement/)**—developed with [the Open Contracting Partnership](https://www.open-contracting.org/)
  
  
-### Snapshot Modules(http://handbook.globaldatabarometer.org/#short-modules)
+### Snapshot Modules[](http://handbook.globaldatabarometer.org/#short-modules)
  
 In addition to the comprehensive thematic modules, the GDB contains snapshots assessments for several more themes in order to serve the broader data research network and provide continuity with the past editions of the Open Data Barometer. Indicators for these snapshot modules are generally limited to assessing data availability. Snapshots include:
  
@@ -72,11 +72,11 @@ In addition to the comprehensive thematic modules, the GDB contains snapshots as
 *   [Crime and justice](http://handbook.globaldatabarometer.org/themes/Crime%20and%20Justice/)
 *   [Energy](http://handbook.globaldatabarometer.org/themes/Energy/)
 *   [Geospatial](http://handbook.globaldatabarometer.org/themes/Geospatial/)
-*   [Population](http://handbook.globaldatabarometer.org/themes/Population%20Data/)
+*   [Population](http://handbook.globaldatabarometer.org/themes/Population/)
 *   [Transportation](http://handbook.globaldatabarometer.org/themes/Transportation/)
  
  
-## Indicator Development(http://handbook.globaldatabarometer.org/#indicator-development)
+## Indicator Development[](http://handbook.globaldatabarometer.org/#indicator-development)
  
 The GDB’s approach to indicator development seeks to: 
  
@@ -89,7 +89,7 @@ The GDB’s approach to indicator development seeks to:
 Within the Handbook, all of the indicators proposed for the pilot edition of the Barometer can be reviewed via the individual modules or by accessing the master list of [indicators](http://handbook.globaldatabarometer.org/indicators/) that is accessible from all module pages. Certain indicators and selected indicator sub-questions have been included in order to build upon past editions of the Open Data Barometer and provide continuity with former study metrics, including assessing the presence of open data frameworks, initiatives, and datasets. In some cases, new secondary sources have been identified to replace previous Open Data Barometer questions; therefore, not all Open Data Barometer data categories are necessarily reflected in the GDB handbook.
  
  
-### Cross-cutting Issues[¶](http://handbook.globaldatabarometer.org/#cross-cutting-issues)
+### Cross-cutting Issues[](http://handbook.globaldatabarometer.org/#cross-cutting-issues)
  
 The design of indicators for the pilot edition of the Barometer has also taken into account the need to provide insight into a number of cross-cutting issues, including the evolution of artificial intelligence, data as a critical tool to advance development and meet SDGs, and issues of inclusion, diversity, and gender. These cross-cutting concerns are reflected in the choice of indicators and in the sub-questions they contain (e.g. assessing any evidence that AI application has been considered in data governance or addressing inclusion in the collection and use of data). 
 
