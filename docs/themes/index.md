@@ -24,7 +24,7 @@ To complete the spread of thematic areas addressed in the pilot edition of the G
 * [Crime and Justice](Crime and Justice.md)
 * [Energy Data](Energy.md)
 * [Geospatial](Geospatial.md)
-* [Population](Population Data.md)
+* [Population](Population.md)
 * [Transportation](Transportation.md)
 
 !!! note "Share your feedback"
