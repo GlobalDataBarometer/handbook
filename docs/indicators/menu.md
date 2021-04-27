@@ -1,4 +1,4 @@
-* [Indicators](index.md)
+* [All Indicators](index.md)
 * Core modules
     * Governance 
         * [Governance: Data Protection](../indicators/G.GOVERNANCE.DPL.md)
