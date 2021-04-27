@@ -19,9 +19,7 @@
         * [Availability: Company register](../indicators/A.COMPANY.REG.md)
         * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
         * [Use: Media and civil investigations](../indicators/U.COMPANY.MEDIA.md)
-        * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
-    * COVID-19 
-        * [Availability: Vaccination (COVID-19)](../indicators/A.COVID.VAC.md)
+        * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)    
     * Climate Action 
         * [Availability: Emission](../indicators/A.CLIMATE.EMI.md)
         * [Availability: Biodiversity](../indicators/A.CLIMATE.BIO.md)
@@ -57,10 +55,10 @@
     * Public Procurement 
         * [Governance: Public procurement data](../indicators/G.PROCUREMENT.OC.md)
         * [Use: Procurement Data Analytics](../indicators/U.PROCUREMENT.ANALYTICS.md)
-        * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)
-    * Public Finance 
-        * [Governance: Open Public Finance Data](../indicators/G.PF.PUB-FINANCE.md)
+        * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)    
 * Snapshot modules
+    * COVID-19 
+        * [Availability: Vaccination (COVID-19)](../indicators/A.COVID.VAC.md)
     * Crime and Justice 
         * [Availability: Sentencing data](../indicators/A.JUSTICE.SENTENCE.md)
         * [Availability: VAW data](../indicators/A.JUSTICE.VAW.md)
