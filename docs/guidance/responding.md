@@ -22,26 +22,26 @@ For each indicator, researchers can provide a personal assessment of the confide
 
 ## The research journal
 
-The survey tool contains a Research Journal for each indicator. Researchers should use this to briefly record the steps they take to carry out their research. The research journal is not published, but is used to support the review process.
+In conjunction with each indicator, the survey tool offers a research journal. Researchers should use this to briefly record the steps they take to carry out their research. The research journal is not published, but is used to support the review process.
  
 
 ??? example "For example..."
 
-	The example research journal below describes the steps taken to respond to an indicator. 
+	In this example, the research journal entry describes the steps taken to respond to an indicator:
 
 	"Followed source guidance to look at DLA Piper Data Protection Laws database & Greanleaf tables of privacy laws: used this to review Part 1 elements. 
 
-	Searched with Google for 'UK Data Protection Migrants' based on past awareness of 'immigration exemption' and looked at first three results. Sources used included in the supporting evidence section. 
+	Searched with Google for 'UK Data Protection Migrants' based on past awareness of 'immigration exemption' and looked at first three results. Sources used included in the supporting evidence section.
 
 	Searched for 'Data Protection COVID-19' and reviewed content from the ICO: looked for best source to use, and confirmed dates of documents. 
 
-	Checked results when talking with Civil Society informant on April 2nd to discuss a number of different questions. Discussed whether Migrants judgement should be 'No' or 'Part' - see justification for conclusion."
+	Checked results when talking with civil society informant on May 22nd to discuss a number of different questions. Discussed whether migrants judgement should be 'No' or 'Part' - see justification for conclusion."
 
 	![Example research journal](/img/research-journal.png)
 
 ## Existence sub-questions
 
-For each indicator, the handbook contains a '**Definitions and identification**' ****section describing the governance arrangements, capabilities, types of data, or use cases to look for. The researcher should check carefully whether anything meeting this definition exists in the country and should locate the best possible examples to assess. The existence sub-question will then ask for an assessment of the nature of the example identified.
+For each indicator, the handbook contains a 'Definitions and identification' section, describing the governance arrangements, capabilities, types of data, or use cases to look for. The researcher should check carefully whether anything meeting this definition exists in the country and should locate the best possible examples to assess. The existence sub-question will then ask for an assessment of the nature of the example identified.
 
 ### Handling null results
 
@@ -56,16 +56,15 @@ If the researcher confirms that no examples that are the focus of the indicator 
 
 ### Locating the best example
 
-Unless otherwise specified in indicator guidance, researchers should first look for **national examples** (e.g. national law, nationally provided dataset) **from the government**. If no such example is identified, or the example identified appears weak (e.g. many other sub-questions are answered 'No'), the researcher should check for the presence of sub-national examples, or in the case of datasets, examples of data provided by other sources than by the government.
+Unless otherwise specified in indicator guidance, researchers should first look for **national examples** (e.g., national law, nationally provided dataset) **from the government**. If no such example is identified, or the example identified appears weak (e.g., many other sub-questions are answered 'No'), the researcher should check for the presence of sub-national examples, or in the case of datasets, examples of data provided by other sources than by the government.
 
 ## Element sub-questions
 
-Once the relevant governance arrangements, institutions, datasets, or use-cases to assess have been identified, the elements sub-questions invite researchers to carry out a detailed assessment.
+Once the relevant governance arrangements, institutions, datasets, or use cases to assess have been identified, the elements sub-questions invite researchers to carry out a detailed assessment.
 
 In general, elements are written as **statements**, and the researcher will need to look closer at documents, datasets, or other evidence to confirm whether the statement is true or false. In cases where the statement is only partially true, or the researcher has doubts about how far the statement applies, they may answer that it is 'part' true.
 
 Some elements have supplementary questions that invite structured meta-data, sources, or justifications. Some of these are mandatory and must be completed (marked as “Required”), while others are marked as “Optional” and should be completed if the researcher has the information available.
-
 
 
 ## Extent sub-questions
@@ -74,13 +73,16 @@ An indicator's extent sub-question is designed to explore whether what’s being
 
 ## Supporting evidence
 
-A number of questions may display conditional prompts which ask the researcher to provide 'in-context' supporting information, including:
+The supporting evidence section allows you to attach up to five structured **links** or **files** that should be published alongside the indicator data, that provide evidence for the given assessment, and that can be checked by reviewers, This might include:
 
-*   URLs to specific datasets, policies, or documents;
-*   A list of formats that a dataset is available in;
-*   Short answers, such as percentage thresholds for disclosure etc.
+*   Links to policies, strategies, or laws for a governance indicator
+*   Links to datasets for an availability indicator
+*   Links to reports or discussions on data capability
+*   Copies of PDF reports where they cannot be linked to online
+*   Links to academic papers
 
-Any supporting information and URLs provided do not need to be repeated in the justification and sources, unless doing so supports the overall justification text.
+Evidence should be in the public domain and should not include private documents. Each item of evidence can have a title and either attached file or URL.
+
 
 ## Justifications & sources
 
@@ -89,8 +91,7 @@ For every indicator, researchers should provide a list of the supporting evidenc
 
 ### Supporting evidence
 
-The supporting evidence section allows you to attach up to five structured **links** or **files** that should be published alongside the indicator data, that provide evidence for the given assessment, and that can be checked by reviewers, This might include:
-
+The supporting evidence section allows you to attach up to five structured **links** or **files** that should be published alongside the indicator data, that provide evidence for the given assessment, and that can be checked by reviewers. This might include:
 
 
 *   Links to laws, policies, strategies, or laws for a governance indicator
