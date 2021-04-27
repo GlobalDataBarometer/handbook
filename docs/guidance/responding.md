@@ -1,4 +1,4 @@
-# Section 2: Indicator Guidance
+# Indicator Guidance
 
 Almost all primary indicators in the Global Data Barometer are framed as _to what extent_ questions.
 
