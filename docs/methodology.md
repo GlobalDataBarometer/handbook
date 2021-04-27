@@ -53,7 +53,8 @@ Finally, there are a number of cross-cutting issues addressed in the Barometer, 
 
 !!! note "A note on the government survey" 
 
-	We are piloting a government survey model for the 2021 Barometer in which we will offer each government a list of the starting point sources that researchers are given. Governments will be invited to provide additional evidence that a researcher might not find from these starting points, and at the review stage, reviewers will be asked to decide if any of these government contributions should be taken into account to update indicator assessments. 
+	In order to augment the results of the Expert Survey and support a greater depth of analysis, a Government Survey is also being developed for the pilot edition of the Barometer. Governments will be invited to provide evidence directly that a researcher might not find on their own. Reviewers will be asked to determine the applicability of government contributions in terms of updating indicator assessments completed by researchers.
+ 
 
-	We have chosen this approach (a) to allow the expert survey and government survey to run in parallel; (b) as based on past experience we do not anticipate a high response rate from governments, and we anticipate very varied levels of detail; (c) it allows initial researcher to begin from the same starting points, and avoids differences in research between countries with and without government survey data. 
+	This approach is designed (a) to allow the expert survey and government survey to run in parallel; and (b) it allows researchers to move forward with their assessments, while avoiding potential disparities in quality and depth of the survey responses from governments. 
 
