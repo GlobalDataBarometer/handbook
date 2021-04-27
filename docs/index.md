@@ -41,7 +41,7 @@ Lessons learned as a result of this pilot edition will be applied directly to fu
  
 The overall structure of the Barometer was developed following a [participatory design workshop](https://globaldatabarometer.org/2020/01/reporting-back-on-our-first-design-workshop/), which identified four core components, a range of potential themes, and a number of cross-cutting issues to be addressed in the structure of the study.
  
-On the [Themes & Modules](http://handbook.globaldatabarometer.org/themes/) page, you will find a full list of the topics to be covered within the pilot edition for which researchers will be asked to provide primary data. These include core modules, thematic modules, and snapshot modules that target the availability of key data within specific sectors. These modules serve to structure the survey for presentation to researchers, analysts, and potential users of GDB data. Although modules may vary in scope and size, their influence on the overall Barometer score will be balanced through weights applied during index calculations.
+On the [Themes & Modules](http://handbook.globaldatabarometer.org/themes/) page, you will find a full list of the topics to be covered within the pilot edition for which researchers will be asked to provide primary data. These include core modules, thematic modules, and snapshot modules. These modules serve to structure the survey for presentation to researchers, analysts, and potential users of GDB data. Although modules may vary in scope and size, their influence on the overall Barometer score will be balanced through weights applied during index calculations.
  
  
 ### Core Modules[](http://handbook.globaldatabarometer.org/#components)
