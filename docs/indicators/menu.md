@@ -55,7 +55,7 @@
     * Public Procurement 
         * [Governance: Public procurement data](../indicators/G.PROCUREMENT.OC.md)
         * [Use: Procurement Data Analytics](../indicators/U.PROCUREMENT.ANALYTICS.md)
-        * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)    
+        * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)
 * Snapshot modules
     * COVID-19 
         * [Availability: Vaccination (COVID-19)](../indicators/A.COVID.VAC.md)
