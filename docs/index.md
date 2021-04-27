@@ -108,18 +108,3 @@ We welcome both positive and critical feedback. You can share feedback as [annot
 
 To read more about the Global Data Barometer project, please see the [public website](https://globaldatabarometer.org).
 
-## Project Milestones
-
-The Global Data Barometer pilot has been in active development since late 2019, with an anchor grant from IDRC since July 2020. The pilot project timeline has been updated to reflect disruptions created by the COVID-19 Pandemic.
-
-* May 2019 - Initial idea of the Global Data Barometer discussed at the OGP Global Summit;
-* November/December 2019 - Background research with key stakeholders to gather user requirements for the new study;
-* January 2020 - Design workshop bringing together key partners in Washington DC to develop conceptual model for the new study  ([workshop report](https://globaldatabarometer.org/2020/01/reporting-back-on-our-first-design-workshop/));
-* July 2020 - Main grant for project development approved and core team began developing partnerships, indicators and research tools;
-* April 2021 - Consultation on primary research questions [Current phase]
-* May 2021 - Primary data collection process begins
-* June 2021 - Primary data collection
-* August 2021 - Completion of the data collection 
-* September - Data analysis and consultations
-* October 2021 - Public reporting initiated
-* November to March 2021 - Global reporting, workshops, and engagement
