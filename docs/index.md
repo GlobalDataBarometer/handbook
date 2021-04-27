@@ -37,7 +37,7 @@ This 2021 edition of the Global Data Barometer is being approached as a pilot in
 Lessons learned as a result of this pilot edition will be applied directly to future editions of the Barometer.
  
  
-## Themes and Modules[](http://handbook.globaldatabarometer.org/#theme-and-module-selection)
+## Themes & Modules[](http://handbook.globaldatabarometer.org/#theme-and-module-selection)
  
 The overall structure of the Barometer was developed following a [participatory design workshop](https://globaldatabarometer.org/2020/01/reporting-back-on-our-first-design-workshop/), which identified four core components, a range of potential themes, and a number of cross-cutting issues to be addressed in the structure of the study.
  
