@@ -1,7 +1,11 @@
 # General Guidance
 
-The handbook is designed to be a one-stop resource on the GDB assessment process, including detailed information on methodology, general guidance to researchers, sources to be used, as well as detailed question-by-question guidance for researchers. 
-Here you'll find both general guidance, about the research parameters and process overall, as well as guidance specific to each indicator.
+Thank you for participating in this first edition of the study! This handbook introduces the assessment process of the GDB, including information on the methodology, guidance on the sources you can use and how to cite them, and **detailed question-by-question assessment guidance** to be consulted as you work through the research process. **Please read the general guidance section in detail before starting your research**.
+
+Here you will find both general guidance, about the project overall and various concepts that recur throughout the expert survey, as well as guidance specific to each indicator. This document acts both as a handbook for the researchers and reviewers generating and validating the Barometer's survey data, and as a reference for those seeking to understand the data that the study produces. 
+
+This handbook is a living document that we update as we pilot methods for studying data for the public good. The most recent copy can always be found at[ https://handbook.globaldatabarometer.org](https://handbook.globaldatabarometer.org)<span style="text-decoration:underline;">. </span>
+
 
 ## Time Period for the Study[](http://handbook.globaldatabarometer.org/guidance/#time-period)
 
