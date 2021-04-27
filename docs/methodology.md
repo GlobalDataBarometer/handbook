@@ -53,7 +53,7 @@ Finally, there are a number of cross-cutting issues addressed in the Barometer, 
 
 !!! note "A note on the government survey" 
 
-	In order to augment the results of the Expert Survey and support a greater depth of analysis, a Government Survey is also being developed for the pilot edition of the Barometer. Governments will be invited to provide evidence directly that a researcher might not find on their own. Reviewers will be asked to determine the applicability of government contributions in terms of updating indicator assessments completed by researchers.
+	In order to augment the results of the expert survey and support a greater depth of analysis, a government survey is also being developed for the pilot edition of the Barometer. Governments will be invited to provide evidence directly that a researcher might not find on their own. Reviewers will be asked to determine the applicability of government contributions in terms of updating indicator assessments completed by researchers.
  
 
 	This approach is designed (a) to allow the expert survey and government survey to run in parallel; and (b) it allows researchers to move forward with their assessments, while avoiding potential disparities in quality and depth of the survey responses from governments. 
