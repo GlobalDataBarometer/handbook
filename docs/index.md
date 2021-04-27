@@ -59,12 +59,12 @@ The overall selection of thematic modules for this pilot edition of the Baromete
  
  
  
-*   **[Climate action](http://handbook.globaldatabarometer.org/themes/Climate%20Action/)**
-*   **[Company information](http://handbook.globaldatabarometer.org/themes/Company%20Information/)**—developed with [Open Ownership](https://www.openownership.org/)
-*   **[Health](http://handbook.globaldatabarometer.org/themes/Health/)**—developed with input from the [Open Data Charter](https://opendatacharter.net/)
-*   **[Land](http://handbook.globaldatabarometer.org/themes/Land/)**—developed with the [Land Portal](https://www.landportal.org/)
-*   **[Political integrity](http://handbook.globaldatabarometer.org/themes/Political%20Integrity/)**—developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
-*   **[Public procurement](http://handbook.globaldatabarometer.org/themes/Procurement/)**—developed with [the Open Contracting Partnership](https://www.open-contracting.org/)
+*   [Climate action](http://handbook.globaldatabarometer.org/themes/Climate%20Action/)
+*   [Company information](http://handbook.globaldatabarometer.org/themes/Company%20Information/)—developed with [Open Ownership](https://www.openownership.org/)
+*   [Health](http://handbook.globaldatabarometer.org/themes/Health/)—developed with input from the [Open Data Charter](https://opendatacharter.net/)
+*   [Land](http://handbook.globaldatabarometer.org/themes/Land/)—developed with the [Land Portal](https://www.landportal.org/)
+*   [Political integrity](http://handbook.globaldatabarometer.org/themes/Political%20Integrity/)—developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
+*   [Public procurement](http://handbook.globaldatabarometer.org/themes/Procurement/)—developed with [the Open Contracting Partnership](https://www.open-contracting.org/)
  
  
 ### Snapshot Modules[](http://handbook.globaldatabarometer.org/#short-modules)
