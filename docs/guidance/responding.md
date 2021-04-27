@@ -89,20 +89,6 @@ Evidence should be in the public domain and should not include private documents
 For every indicator, researchers should provide a list of the supporting evidence used and write a short prose explanation of the example assessed, and how certain judgements have been made.
  
 
-### Supporting evidence
-
-The supporting evidence section allows you to attach up to five structured **links** or **files** that should be published alongside the indicator data, that provide evidence for the given assessment, and that can be checked by reviewers. This might include:
-
-
-*   Links to laws, policies, strategies, or laws for a governance indicator
-*   Links to datasets for an availability indicator
-*   Links to reports or discussions on data capability
-*   Copies of PDF reports where they cannot be linked to online
-*   Links to academic papers
-
-Evidence should be in the public domain and should not include private documents. Each item of evidence can have a title and either attached file or URL.
-
-
 ### Justification
 
 The justification should include brief notes to support the assessments made, citing numbered items of supporting evidence to back up each key point. This justification is first used by the reviewers to check your assessment, and is then published alongside the raw data from the survey to support re-users of the data to understand the basis for each assessment.
