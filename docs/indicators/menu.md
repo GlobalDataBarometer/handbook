@@ -19,7 +19,7 @@
         * [Availability: Company register](../indicators/A.COMPANY.REG.md)
         * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
         * [Use: Media and civil investigations](../indicators/U.COMPANY.MEDIA.md)
-        * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)    
+        * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
     * Climate Action 
         * [Availability: Emission](../indicators/A.CLIMATE.EMI.md)
         * [Availability: Biodiversity](../indicators/A.CLIMATE.BIO.md)
