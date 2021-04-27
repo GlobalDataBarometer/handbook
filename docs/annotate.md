@@ -1,10 +1,10 @@
-# Providing feedback using annotations
+# Providing Feedback Using Annotations
 
 During our consultation phase, we have enabled Hypothes.is on all handbook pages to allow you to share feedback on specific sections. This is similar to commenting using Google Docs - and provides comments that are visible to all viewers of the handbook.
 
 If you prefer to provide private feedback, you can do this by e-mail, or using the comment form available on each indicator.
 
-## To add annotations
+## To Add Annotations
 
 You will need to [register](https://hypothes.is/signup) for and/or [log-in](https://hypothes.is/login) to a Hypothesis account. Registration is straightforward and only requires an e-mail address. 
 
