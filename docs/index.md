@@ -46,7 +46,12 @@ On the [Themes & Modules](http://handbook.globaldatabarometer.org/themes/) page,
  
 ### Core Modules[](http://handbook.globaldatabarometer.org/#components)
  
-Governance and Capability are core components of the Barometer that have been developed as standalone modules, containing a series of primary indicators designed to provide a country-wide assessment of two of the most critical issue areas related to the development of an effective data ecosystem. These modules are complemented by additional indicators on governance and capability within the thematic modules. The other two core components of the Barometer, Availability and Use, are also assessed primarily through the thematic modules. 
+Governance and capability are core components of the Barometer that have been developed as standalone modules, containing a series of primary indicators designed to provide a country-wide assessment of two of the most critical issue areas related to the development of an effective data ecosystem:
+
+* [Governance](Governance.md)
+* [Capabilities](Capabilities.md)
+
+These modules are complemented by additional indicators on governance and capability within the thematic and snapshot modules. The other two core components of the Barometer, availability and use, are assessed primarily through the thematic and snapshot modules.
  
 ### Thematic Modules
  
