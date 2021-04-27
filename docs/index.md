@@ -98,7 +98,7 @@ Within the Handbook, all of the indicators proposed for the pilot edition of the
  
 The design of indicators for the pilot edition of the Barometer has also taken into account the need to provide insight into a number of cross-cutting issues, including the evolution of artificial intelligence, data as a critical tool to advance development and meet SDGs, and issues of inclusion, diversity, and gender. These cross-cutting concerns are reflected in the choice of indicators and in the sub-questions they contain (e.g. assessing any evidence that AI application has been considered in data governance or addressing inclusion in the collection and use of data). 
 
-## Share your Comments and Annotations
+## Share Your Comments and Annotations
 
 This version of the handbook has been published in advance of our expert survey to invite feedback on the proposed indicators for the GDB Pilot Edition. The public review process is designed to improve the assessment methodology, as well as the overall approach of the GDB. 
 
