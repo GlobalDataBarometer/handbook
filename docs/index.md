@@ -100,7 +100,7 @@ The design of indicators for the pilot edition of the Barometer has also taken i
 
 ## Share Your Comments and Annotations
 
-This version of the handbook has been published in advance of our expert survey to invite feedback on the proposed indicators for the GDB Pilot Edition. The public review process is designed to improve the assessment methodology, as well as the overall approach of the GDB. 
+This version of the handbook has been published in advance of our expert survey to invite feedback on the proposed indicators for the GDB pilot edition. The public review process is designed to improve the assessment methodology, as well as the overall approach of the GDB. 
 
 Please review any or all aspects of the handbook and indicate any improvement that could be made to provide clearer definitions, improve indicators, respond to different global contexts, or address important issues that may have been missed. Key objectives of the review include:
 
