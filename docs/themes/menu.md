@@ -1,4 +1,4 @@
-* [Module overview](index.md)
+* [Overview](index.md)
 * Core modules
     * [Governance](Governance.md)
     * [Capabilities](Capabilities.md)
