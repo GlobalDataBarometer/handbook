@@ -1,4 +1,4 @@
-# Themes and Modules
+# Overview
 
 We have organised development of indicators for the Global Data Barometer into core, thematic, and snapshot modules. These modules collect together related indicators that we anticipate researchers will address together. Modules vary in scale, although the influence of thematic modules on the overall Barometer score will be balanced through weighted aggregation.
  
