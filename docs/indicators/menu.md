@@ -1,5 +1,5 @@
 * [Indicators](index.md)
-* Core components
+* Core modules
     * Governance 
         * [Governance: Data Protection](../indicators/G.GOVERNANCE.DPL.md)
         * [Governance: Open Data Initiative](../indicators/G.GOVERNANCE.ODINIT.md)
