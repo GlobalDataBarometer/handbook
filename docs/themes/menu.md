@@ -4,7 +4,7 @@
     * [Capabilities](Capabilities.md)
 * Thematic modules
     * [Climate Action](Climate Action.md)
-    * [Company Information](Company Information.md) 
+    * [Company Information](Company Information.md)
     * [Health](Health.md)
     * [Land](Land.md)
     * [Political Integrity](Political Integrity.md)
