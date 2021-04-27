@@ -27,7 +27,7 @@ In conjunction with each indicator, the survey tool offers a research journal. R
 
 ??? example "For example..."
 
-	In this example, the research journal entry describes the steps taken to respond to an indicator:
+	*In this example, the research journal entry describes the steps taken to respond to an indicator*:
 
 	"Followed source guidance to look at DLA Piper Data Protection Laws database & Greanleaf tables of privacy laws: used this to review Part 1 elements. 
 
