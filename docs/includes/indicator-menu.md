@@ -15,18 +15,18 @@
     * [Capability: Government support for re-use](../indicators/C.CAPABILITIES.GOVSUPPORT.md)
 ## Thematic Modules
 
+* Climate Action 
+    * [Availability: Emission](../indicators/A.CLIMATE.EMI.md)
+    * [Availability: Biodiversity](../indicators/A.CLIMATE.BIO.md)
+    * [Availability: Vulnerability](../indicators/A.CLIMATE.VUL.md)
+    * [Use: Local adaptation ](../indicators/U.CLIMATE.ADAPT.md)
 * Company Information 
     * [Governance: Company registration details](../indicators/G.COMPANY.REG.md)
     * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md)
     * [Availability: Company register](../indicators/A.COMPANY.REG.md)
     * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
     * [Use: Media and civil investigations](../indicators/U.COMPANY.MEDIA.md)
-    * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
-* Climate Action 
-    * [Availability: Emission](../indicators/A.CLIMATE.EMI.md)
-    * [Availability: Biodiversity](../indicators/A.CLIMATE.BIO.md)
-    * [Availability: Vulnerability](../indicators/A.CLIMATE.VUL.md)
-    * [Use: Local adaptation ](../indicators/U.CLIMATE.ADAPT.md)
+    * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md) 
 * Health 
     * [Availability: Vital statistics](../indicators/A.HEALTH.CRVS.md)
     * [Availability: Real-time healthcare system capacity](../indicators/A.HEALTH.RTC.md)
