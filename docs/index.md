@@ -6,7 +6,7 @@ You are viewing the draft Global Data Barometer Research Handbook (2021).
 ## Introduction
 Data is a source of power. It can be exploited for private gain and used to limit freedom, or it can be deployed as a public good—a resource for tackling social challenges, enabling collaboration, driving innovation, and improving accountability.
  
-The goal of the Global Data Barometer is to fill critical knowledge gaps on how the use of data is evolving across different sectors, regions, and countries around the world. The design of the Global Data Barometer (GDB) specifically seeks to address critical knowledge gaps related to how the policies and practices of governing, releasing, and using data for the public good are unfolding across the globe.
+The Global Data Barometer aims to fill critical knowledge gaps on how the use of data is evolving across different sectors, regions, and countries around the world. The Barometer's design thus investigates how the policies and practices of governing, releasing, and using data for the public good are unfolding across the globe.
  
 Building on the [Open Data Barometer](https://www.opendatabarometer.org/), which has been used to drive policymaking, advocacy, and academic research around the world, the Global Data Barometer asks the question: **_To what extent are countries managing data for the public good?_**
  
