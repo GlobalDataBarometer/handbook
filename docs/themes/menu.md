@@ -1,7 +1,7 @@
 * [Overview](index.md)
 * Core Modules
     * [Governance](Governance.md)
-    * [Capabilities](Capabilities.md)
+    * [Capabilities](Capability.md)
 * Thematic Modules
     * [Climate Action](Climate Action.md)
     * [Company Information](Company Information.md)
