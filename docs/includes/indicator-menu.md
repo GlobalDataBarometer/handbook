@@ -25,7 +25,6 @@
     * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
     * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
 * Health 
-    * [Governance: Health data](../indicators/G.HEALTH.HEA.md)
     * [Availability: Real-time healthcare system capacity](../indicators/A.HEALTH.RTC.md)
 * Land 
     * [Availability: Land Tenure](../indicators/A.LAND.TENURE.md)

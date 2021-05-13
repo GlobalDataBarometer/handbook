@@ -8,6 +8,7 @@
     * [Health](Health.md)
     * [Land](Land.md)
     * [Political Integrity](Political Integrity.md)
+    * [Public Finance](Public Finance.md)
     * [Public Procurement](Public Procurement.md)
 * Snapshot Modules
     * [COVID-19](COVID-19.md)

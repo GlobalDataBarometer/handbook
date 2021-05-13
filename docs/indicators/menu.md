@@ -23,7 +23,6 @@
         * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
         * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
     * Health 
-        * [Governance: Health data](../indicators/G.HEALTH.HEA.md)
         * [Availability: Real-time healthcare system capacity](../indicators/A.HEALTH.RTC.md)
     * Land 
         * [Availability: Land Tenure](../indicators/A.LAND.TENURE.md)
@@ -42,6 +41,9 @@
         * [Availability: Political finance data](../indicators/A.PI.POLFIN.md)
         * [Availability: Lobbying data](../indicators/A.PI.LOBBY.md)
         * [Use: Accountability uses of PI](../indicators/U.PI.ACCOUNT.md)
+    * Public Finance
+        * [Governance: Open public finance data](../indicators/G.PF.PUB-FINANCE.md)
+        * [Availability: Budget and spending data](../indicators/A.PF.BUDGETSPEND.md)
     * Public Procurement 
         * [Use: Procurement Data Analytics](../indicators/U.PROCUREMENT.ANALYTICS.md)
         * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)
