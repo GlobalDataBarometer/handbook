@@ -1,13 +1,14 @@
 * [Overview](index.md)
 * Core Modules
     * [Governance](Governance.md)
-    * [Capabilities](Capabilities.md)
+    * [Capabilities](Capability.md)
 * Thematic Modules
     * [Climate Action](Climate Action.md)
     * [Company Information](Company Information.md)
     * [Health](Health.md)
     * [Land](Land.md)
     * [Political Integrity](Political Integrity.md)
+    * [Public Finance](Public Finance.md)
     * [Public Procurement](Public Procurement.md)
 * Snapshot Modules
     * [COVID-19](COVID-19.md)
