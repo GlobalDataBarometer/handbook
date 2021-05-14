@@ -30,10 +30,10 @@
         * [Governance: Lobbying register](../indicators/G.PI.LOBBY.md)
         * [Availability: Lobbying data](../indicators/A.PI.LOBBY.md)
         * [Governance: Public consultation data](../indicators/G.PI.PUBCON.md)
-        * [Availability: Public consultation data](../indicators/A.PI.PUBCON.md)        
+        * [Availability: Public consultation data](../indicators/A.PI.PUBCON.md)
         * [Governance: RTI performance](../indicators/G.PI.RTI.md)
         * [Availability: RTI performance data](../indicators/A.PI.RTI.md)
-        * [Capability: Political integrity interoperability](../indicators/C.PI.INTEROP.md)        
+        * [Capability: Political integrity interoperability](../indicators/C.PI.INTEROP.md)
         * [Use: Accountability uses of PI](../indicators/U.PI.ACCOUNT.md)
     * Public Finance
         * [Governance: Open public finance data](../indicators/G.PF.PUB-FINANCE.md)
