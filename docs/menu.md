@@ -1,6 +1,1 @@
-* [Home](index.md)
-    * [Providing Feedback](annotate.md)
-* [Methodology](methodology.md)
-* [Themes & Modules](themes/)
-* [Guidance](guidance/)
 * [](indicators/)
