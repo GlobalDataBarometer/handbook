@@ -22,8 +22,10 @@
         * [Availability: Company register](../indicators/A.COMPANY.REG.md)
         * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
         * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
-    * Health 
+    * Health & COVID-19
         * [Availability: Real-time healthcare system capacity](../indicators/A.HEALTH.RTC.md)
+        * [Availability: Vaccination (COVID-19)](../indicators/A.HEALTH.VAC.md)
+        * [Availability: CRVS](../indicators/A.HEALTH.CRVS.md)
     * Land 
         * [Availability: Land Tenure](../indicators/A.LAND.TENURE.md)
         * [Availability: Existing Land Use](../indicators/A.LAND.ELU.md)
@@ -47,6 +49,3 @@
     * Public Procurement 
         * [Use: Procurement Data Analytics](../indicators/U.PROCUREMENT.ANALYTICS.md)
         * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)
-* Snapshot Modules
-    * COVID-19 
-        * [Availability: Vaccination (COVID-19)](../indicators/A.COVID.VAC.md)
