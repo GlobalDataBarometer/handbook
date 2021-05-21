@@ -14,6 +14,7 @@ theme:
   logo: img/gdb-5.png
 plugins:
   - search
+  - pdf-export
   - literate-nav:
       nav_file: menu.md
   - macros:
