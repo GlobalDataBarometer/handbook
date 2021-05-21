@@ -26,14 +26,7 @@ markdown_extensions:
   - attr_list
   - pymdownx.tabbed
   - pymdownx.details
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid-experimental
-          format: !!python/name:pymdownx.superfences.fence_code_format
 extra_javascript:
-  - https://hypothes.is/embed.js
-  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
   - ga.js
 extra_css:
   - custom.css
