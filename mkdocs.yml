@@ -14,11 +14,11 @@ theme:
   logo: img/gdb-5.png
 plugins:
   - search
-  - pdf-export
   - literate-nav:
       nav_file: menu.md
   - macros:
       include_dir: docs/includes
+  - pdf-export
 markdown_extensions:
   - toc:
       permalink: true
