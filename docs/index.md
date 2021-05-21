@@ -58,13 +58,13 @@ These modules are complemented by additional indicators on governance and capabi
 The overall selection of thematic modules for this pilot edition of the Barometer has been based on the desire to cover a range of government functions and a range of sustainable development goals, as well as to benefit from the expertise of partners who are contributing to the in-depth thematic modules. Currently, a range of GDB partners are contributing to the development of the following thematic modules:
  
  
-*   [Company information](Company%20Information.md)—developed with [Open Ownership](https://www.openownership.org/) 
-*   [Land](Land/)—developed with the [Land Portal](https://www.landportal.org/)
-*   [Political integrity](Political%20Integrity.md)—developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
-*   [Public Finance](Public Finance.md)—developed with [the Global Initiative on Fiscal Transparency](https://www.fiscaltransparency.org/)
-*   [Public procurement](Public Procurement.md)—developed with [the Open Contracting Partnership](https://www.open-contracting.org/)
-*   [Climate action](Climate%20Action.md)
-*   [Health and COVID-19](Health%20and%20COVID-19.md)—developed with input from the [Open Data Charter](https://opendatacharter.net/)
+*   [Company information](themes/Company%20Information.md)—developed with [Open Ownership](https://www.openownership.org/) 
+*   [Land](themes/Land.md)—developed with the [Land Portal](https://www.landportal.org/)
+*   [Political integrity](themes/Political%20Integrity.md)—developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
+*   [Public Finance](themes/Public Finance.md)—developed with [the Global Initiative on Fiscal Transparency](https://www.fiscaltransparency.org/)
+*   [Public procurement](themes/Public Procurement.md)—developed with [the Open Contracting Partnership](https://www.open-contracting.org/)
+*   [Climate action](themes/Climate%20Action.md)
+*   [Health and COVID-19](themes/Health%20and%20COVID-19.md)—developed with input from the [Open Data Charter](https://opendatacharter.net/)
 
  
 ## Indicator Development[](#indicator-development)
