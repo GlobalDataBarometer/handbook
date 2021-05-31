@@ -19,35 +19,12 @@ These modules are complemented by additional indicators on governance and capabi
 The overall selection of thematic modules for this pilot edition of the Barometer has been based on the desire to cover a range of government functions and a range of sustainable development goals, as well as to benefit from the expertise of partners who are contributing to the in-depth thematic modules. Currently, a range of GDB partners are contributing to the development of the following thematic modules:
  
  
- 
-*   [Climate action](http://handbook.globaldatabarometer.org/themes/Climate%20Action/)
-*   [Company information](http://handbook.globaldatabarometer.org/themes/Company%20Information/)—developed with [Open Ownership](https://www.openownership.org/)
-*   [Health](http://handbook.globaldatabarometer.org/themes/Health/)—developed with input from the [Open Data Charter](https://opendatacharter.net/)
-*   [Land](http://handbook.globaldatabarometer.org/themes/Land/)—developed with the [Land Portal](https://www.landportal.org/)
-*   [Political integrity](http://handbook.globaldatabarometer.org/themes/Political%20Integrity/)—developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
-*   [Public procurement](http://handbook.globaldatabarometer.org/themes/Procurement/)—developed with [the Open Contracting Partnership](https://www.open-contracting.org/)
- 
- 
-### Snapshot Modules[](http://handbook.globaldatabarometer.org/#short-modules)
- 
-In addition to the comprehensive thematic modules, the GDB contains snapshots assessments for several more themes in order to serve the broader data research network and provide continuity with the past editions of the Open Data Barometer. Indicators for these snapshot modules are generally limited to assessing data availability. Snapshots include:
- 
- 
- 
-*   [COVID-19](http://handbook.globaldatabarometer.org/themes/COVID-19/)
-*   [Crime and justice](http://handbook.globaldatabarometer.org/themes/Crime%20and%20Justice/)
-*   [Energy](http://handbook.globaldatabarometer.org/themes/Energy/)
-*   [Geospatial](http://handbook.globaldatabarometer.org/themes/Geospatial/)
-*   [Population](http://handbook.globaldatabarometer.org/themes/Population/)
-*   [Transportation](http://handbook.globaldatabarometer.org/themes/Transportation/)
+*   [Company information](Company%20Information.md)—developed with [Open Ownership](https://www.openownership.org/) 
+*   [Land](Land/)—developed with the [Land Portal](https://www.landportal.org/)
+*   [Political integrity](Political%20Integrity.md)—developed with [Transparency International](https://www.transparency.org/en) and the [Open Government Partnership](https://www.opengovpartnership.org/)
+*   [Public Finance](Public Finance.md)—developed with [the Global Initiative on Fiscal Transparency](https://www.fiscaltransparency.org/)
+*   [Public procurement](Public Procurement.md)—developed with [the Open Contracting Partnership](https://www.open-contracting.org/)
+*   [Climate action](Climate%20Action.md)
+*   [Health and COVID-19](Health%20&%20COVID-19.md)—developed with input from the [Open Data Charter](https://opendatacharter.net/)
 
-!!! note "Share your feedback"
-
-    The list of modules for the pilot edition of the Global Data Barometer is now in final draft status, and is unlikely to significantly change. At this point we welcome feedback on: 
-    
-    * **The proposed indicators** under each module. 
-    * **The details of each indicator**.
-    * **Module justifications** and in particular, any relevant regional considerations.
-    * **Potential use cases** for the primary data that will be gathered for particular modules.
-
-    In particular, we are keen to hear from stakeholders who may make use of data gathered under a particular module, and to identify if there are ways we can ensure the primary data collection carried out best meets stakeholder needs. 
+ 
