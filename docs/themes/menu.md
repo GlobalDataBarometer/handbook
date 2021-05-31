@@ -5,7 +5,7 @@
 * Thematic Modules
     * [Climate Action](Climate Action.md)
     * [Company Information](Company Information.md)
-    * [Health](Health & COVID-19.md)
+    * [Health & COVID-19](Health & COVID-19.md)
     * [Land](Land.md)
     * [Political Integrity](Political Integrity.md)
     * [Public Finance](Public Finance.md)
