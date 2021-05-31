@@ -64,7 +64,7 @@ The overall selection of thematic modules for this pilot edition of the Baromete
 *   [Public Finance](themes/Public Finance.md)—developed with [the Global Initiative on Fiscal Transparency](https://www.fiscaltransparency.org/)
 *   [Public procurement](themes/Public Procurement.md)—developed with [the Open Contracting Partnership](https://www.open-contracting.org/)
 *   [Climate action](themes/Climate%20Action.md)
-*   [Health and COVID-19](themes/Health%20and%20COVID-19.md)—developed with input from the [Open Data Charter](https://opendatacharter.net/)
+*   [Health and COVID-19](themes/Health%20&%20COVID-19.md)—developed with input from the [Open Data Charter](https://opendatacharter.net/)
 
  
 ## Indicator Development[](#indicator-development)
