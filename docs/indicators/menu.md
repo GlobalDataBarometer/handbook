@@ -13,19 +13,11 @@
         * [Capability: Government support for re-use](../indicators/C.CAPABILITIES.GOVSUPPORT.md)
         * [Governance: Open Data Initiative](../indicators/C.CAPABILITIES.ODINIT.md)
 * Thematic Modules 
-    * Climate Action 
-        * [Availability: Emission](../indicators/A.CLIMATE.EMI.md)
-        * [Availability: Biodiversity](../indicators/A.CLIMATE.BIO.md)
-        * [Availability: Vulnerability](../indicators/A.CLIMATE.VUL.md)
     * Company Information 
         * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md)
         * [Availability: Company register](../indicators/A.COMPANY.REG.md)
         * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
         * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
-    * Health & COVID-19
-        * [Availability: Real-time healthcare system capacity](../indicators/A.HEALTH.RTC.md)
-        * [Availability: Vaccination (COVID-19)](../indicators/A.HEALTH.VAC.md)
-        * [Availability: CRVS](../indicators/A.HEALTH.CRVS.md)
     * Land 
         * [Availability: Land Tenure](../indicators/A.LAND.TENURE.md)
         * [Availability: Existing Land Use](../indicators/A.LAND.ELU.md)
@@ -49,3 +41,11 @@
     * Public Procurement 
         * [Use: Procurement Data Analytics](../indicators/U.PROCUREMENT.ANALYTICS.md)
         * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)
+    * Climate Action 
+        * [Availability: Emission](../indicators/A.CLIMATE.EMI.md)
+        * [Availability: Biodiversity](../indicators/A.CLIMATE.BIO.md)
+        * [Availability: Vulnerability](../indicators/A.CLIMATE.VUL.md)
+    * Health & COVID-19
+        * [Availability: Real-time healthcare system capacity](../indicators/A.HEALTH.RTC.md)
+        * [Availability: Vaccination (COVID-19)](../indicators/A.HEALTH.VAC.md)
+        * [Availability: CRVS](../indicators/A.HEALTH.CRVS.md)
