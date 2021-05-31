@@ -18,14 +18,16 @@ plugins:
       nav_file: menu.md
   - macros:
       include_dir: docs/includes
+  - print-site
 markdown_extensions:
   - toc:
       permalink: true
   - admonition
   - attr_list
-  - pymdownx.tabbed
-  - pymdownx.details
-extra_javascript:
-  - ga.js
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid-experimental
+          format: !!python/name:pymdownx.superfences.fence_code_format
 extra_css:
   - custom.css
