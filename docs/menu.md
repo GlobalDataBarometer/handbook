@@ -1,5 +1,4 @@
 * [Home](index.md)
 * [Methodology](methodology.md)
-* [Themes & Modules](themes/)
 * [Guidance](guidance/)
 * [](indicators/)
