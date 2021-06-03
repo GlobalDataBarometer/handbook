@@ -26,11 +26,6 @@ The Global Data Barometer is based around four pillars or foundational areas of 
 ![Global Data Barometer Structure: Governance, Capability, Availability, Use & Impact](https://globaldatabarometer.org/wp-content/uploads/2021/06/structure.png)
 
 
-The study is also organised through a number of **core, thematic, and snapshot modules** that, in addition to assessing the overarching country context, look at the interaction of governance, capability, availability, and use in specific domains, such as political integrity, climate action, and land. Modules vary in size, reflecting the pilot nature of the GDB as we seek to explore both the depth and breadth of assessing data for the public good in core, thematic, and snapshot modules.
-
-Finally, there are a number of cross-cutting issues addressed in the Barometer, which may be featured within sub-questions for a number of indicators. These include: sustainable development; open data, data for development; inclusion, gender, and diversity; as well emerging AI practices.
-
-
 Structurally, the study is organized into **core **and** thematic modules**. Core modules assess the overarching country context, while thematic modules look at the interaction of governance, capability, availability, and use in specific domains, such as political integrity, climate action, and land. Modules vary in size, reflecting both the particularities of different data ecosystems and the pilot nature of the Barometer as we seek to explore both the depth and breadth of assessing data for the public good.
 
 Finally, the Barometer explores several cross-cutting issues directly, typically investigated through sub-questions within indicators. These include: equity and inclusion, COVID-19, and emerging AI practices. The data the Barometer gathers also speaks meaningfully to sustainable development, open data, and data for development.
