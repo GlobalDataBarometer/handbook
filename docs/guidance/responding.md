@@ -10,26 +10,26 @@ Typically, indicator sub-questions are organized in three sections: **existence*
 ## Question Status and Confidence
 
 
-### Status[¶](https://handbook.globaldatabarometer.org/guidance/responding/#status)
+### Status
 
 In the survey tool, at the top of each indicator is a space to indicate the status of your research. Use this to keep track of your work. Researchers can mark an indicator as “Not started,” “Draft,” or “Complete.” Reviewers can mark content as “Reviewed.” The research coordinator can view the completion status of indicators in their management dashboard.
 
 
-### Confidence[¶](https://handbook.globaldatabarometer.org/guidance/responding/#confidence)
+### Confidence
 
 For each indicator, researchers can provide a personal assessment of their confidence in the answers they have provided. This is a useful way for researchers to indicate to reviewers whether they believe their answers to be highly accurate or if they have concerns about answers’ accuracy—for example, when researchers have not been able to confirm answers in the time allotted. Use the indicator’s research journal to briefly record any reasons for a lower confidence in the accuracy of the answer. 
 
 In some cases, researchers may also have concerns about the reliability of the data published by governments. This can be noted in the research journal or justification box. The confidence field is only for researchers to assess their confidence in the accuracy of their own answers.
 
 
-## Existence Sub-questions[¶](https://handbook.globaldatabarometer.org/guidance/responding/#existence-sub-questions)
+## Existence Sub-questions
 
 Existence sub-questions ask researchers to determine whether relevant frameworks, institutions, training programs, datasets, or use cases exist. For each indicator, as part of the indicator-specific guidance, the handbook contains a “Definitions and Identification” section. This describes the governance arrangements, capabilities, types of data, or use cases the researcher should look for. 
 
 The researcher must check carefully whether anything meeting this definition exists in the country—and if so, locate the best possible examples to assess. As appropriate, the existence sub-question will then ask researchers to assess the nature of the example(s) they have identified.
 
 
-### When there is no evidence [¶](https://handbook.globaldatabarometer.org/guidance/responding/#handling-null-results)
+### When there is no evidence
 
 If the researcher determines that there are no examples that correspond to an indicator—or if they cannot locate evidence of such existence—then they must explain in the research journal the research steps they took to come to this conclusion. 
 
@@ -55,7 +55,7 @@ If the basic information that _is_ available online is sufficient to answer any 
 The Barometer draws on desk research and interviews, with an explicit focus on evidence that is available online. To answer sub-questions a researcher may need to conduct interviews, but the researcher shouldn’t have to visit government agencies to examine datasets—other than online—or seek additional information through formal information requests. 
 
 
-### **Locating the best example[¶](https://handbook.globaldatabarometer.org/guidance/responding/#locating-the-best-example)**
+### Locating the best example
 
 The Barometer uses a bright spots design, built to handle federal systems with flexibility. This means that, unless otherwise specified in the indicator guidance, researchers should look first for national examples (e.g., national law, nationally provided dataset) from the government. If no such example is identified, or the example identified appears weak (e.g., the answers to many other sub-questions are “No”), the researcher should then check for the presence of sub-national examples or, when relevant, examples that only apply to particular agencies.
 
@@ -85,7 +85,7 @@ Existence sub-questions in core governance indicators ask whether relevant laws,
 Note: In sub-questions we often abbreviate “relevant laws, regulations, policies, and guidance” as “**framework**.” This is because the basis for collecting and publishing data is often distributed across multiple laws, regulations, policies, and guidance documents. For example, one law may empower an agency to collect data, another regulation or memorandum may specify that data should be provided in a structured form, and another law may mandate that when data is provided, it should be under open license. “Framework” is used to represent the collection of relevant laws, regulations, policies, and guidance, it does not imply that a government itself necessarily presents or understands these as a unified framework.
 
 
-## **Element Sub-questions[¶](https://handbook.globaldatabarometer.org/guidance/responding/#element-sub-questions)**
+## Element Sub-questions
 
 Once the relevant frameworks, institutions, training programs, datasets, or use cases have been identified, the element sub-questions invite researchers to carry out a detailed assessment.
 
@@ -159,7 +159,7 @@ Each availability indicator also asks about whether or not there is evidence of 
 In cases where there is no such identified dataset or related governance indicator, assess based on the parameters laid out in the publication of the information (e.g., are some fields entirely empty when they shouldn't be?), your local knowledge (e.g., if the data is supposed to include information for all public officials, does the number of total entries look right?), and any broader research you may have done for this theme (e.g., have media articles exposed the incompleteness of the data?). 
 
 
-## **Extent Sub-questions[¶](https://handbook.globaldatabarometer.org/guidance/responding/#extent-sub-questions)**
+## Extent Sub-questions
 
 An indicator's extent sub-question is designed to explore whether what is being evaluated demonstrates comprehensive coverage or whether it has limitations. For example, a capability indicator’s extent sub-question might ask whether a country’s data science training is available across the country or only in a limited number of locations; an availability indicator’s extent sub-question might ask whether a dataset that scores highly in the elements checklist is an exceptional outlier in a federal system or an example of the norm.
 
@@ -175,7 +175,7 @@ For example, if an investigative journalist has used lobbying data to expose gov
 Second, researchers should exercise their expert judgement as to whether the impacts associated with this use have been primarily cosmetic (lacking the substance to be either positive or negative), positive, or negative (causing identifiable harms). In the justification box, explain your reasoning and provide any available evidence.
 
 
-## **Supporting Evidence[¶](https://handbook.globaldatabarometer.org/guidance/responding/#supporting-evidence)**
+## Supporting Evidence
 
 The supporting evidence section allows you to attach up to five structured **links** or **files** that should be published alongside the justification and indicator data, that provide evidence for the given assessment and that can be checked by reviewers. This might include:
 
@@ -192,12 +192,12 @@ Evidence should be in the public domain and should not include private documents
 Choose the five most important sources to attach as structured evidence. In the justification box, cite all of the relevant sources.
 
 
-## **Justifications & Sources[¶](https://handbook.globaldatabarometer.org/guidance/responding/#justifications-sources)**
+## Justifications & Sources
 
 For every indicator, researchers should provide a list of the supporting evidence used and write a short prose explanation of the example assessed, and how certain judgements have been made.
 
 
-### **Justification[¶](https://handbook.globaldatabarometer.org/guidance/responding/#justification)**
+### Justification
 
 The justification should include brief notes to support the assessments made, citing numbered items of supporting evidence to back up each key point. This justification is first used by the reviewers to check your assessment, and is then published alongside the raw data from the survey to support re-users of the data to understand the basis for each assessment.
 
@@ -223,13 +223,12 @@ The following example is a real justification provided by a researcher for the O
 You should always provide a justification, even when you answer “No” to an existence question.
 
 
-### Citation guidance[¶](https://handbook.globaldatabarometer.org/guidance/responding/#citation-guidance)
+### Citation guidance
 
 
-#### Citing desk research and interviews[¶](https://handbook.globaldatabarometer.org/guidance/responding/#citing-desk-research-and-interviews)
+#### Citing desk research and interviews
 
 Selected sources should always reflect the project’s study period.
-
 
 
 *   Please use exactly the following format when citing **interviews**: Interview sources must include the full name of the interviewee, the name of the interviewee’s employer, and job title. Example: Interview with Jane Doe, Ministry of Justice, Director General.
@@ -242,7 +241,7 @@ Researchers should exercise professional judgment to determine whether opinions 
 *   Please use the following format when citing **journal articles, written documents, or other third-party desk research**: provide the full citation: name of author(s), year of publication, title, journal/publishing house; whenever possible please also provide a URL/hyperlink or attach an electronic copy if a link is unavailable. For example: Berg, Janina and Daniel Freund. 2015. EU legislative footprint: What’s the real influence of lobbying? _Transparency International EU _https://transparency.eu/wp-content/uploads/2016/09/Transparency-05-small-text-web-1.pdf
 
 
-#### Citing laws or regulations[¶](https://handbook.globaldatabarometer.org/guidance/responding/#citing-laws-or-regulations)
+#### Citing laws or regulations
 
 
 *   Researchers must identify the law (full name, article, etc.), case law, specific legal articles, or statutes and provide a direct quote or a detailed explanation of the law in the comments box, as needed.
@@ -252,7 +251,7 @@ Researchers should exercise professional judgment to determine whether opinions 
 *   Please use this specific format when citing laws or regulations: name of law, article, section number, year, hyperlink to law. Example: Constitution Acts, Part I: Canadian Charter of Rights and Freedoms, Section 6. 1982.[ http://laws.justice.gc.ca/eng/Const/page-11.html#sc:7:s_6](http://laws.justice.gc.ca/eng/Const/page-11.html#sc:7:s_6)
 
 
-## The Research Journal[¶](https://handbook.globaldatabarometer.org/guidance/responding/#the-research-journal)
+## The Research Journal
 
 For each indicator, the survey tool provides a research journal. Researchers should use this to briefly record the steps they take to carry out their research. The research journal is not published, but is used to support the review process. The research journal holds particular relevance when reviewing indicators where no evidence of existence was found, since reviewers will need to inspect the research process followed to reach this conclusion. 
 
