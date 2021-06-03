@@ -3,7 +3,7 @@
 The handbook is designed to be a one-stop resource on the GDB assessment process, including detailed information on methodology, general guidance to researchers, sources to be used, as well as detailed question-by-question guidance for researchers. Here you'll find both general guidance, about the research parameters and process overall, as well as guidance specific to each indicator.
 
 
-## **Time Period for the Study[¶](https://handbook.globaldatabarometer.org/guidance/#time-period-for-the-study)**
+## Time Period for the Study
 
 Each edition of the Barometer will focus on a particular, defined period of time. Researchers are asked to examine evidence and sources that apply specifically to this period; answers should assess the state of data within the country only during this defined period, unless otherwise stated.
 
@@ -27,8 +27,7 @@ For example:
 Wherever possible, researchers should cite contemporaneous sources from the defined period.
 
 
-## **The Research Process[¶](https://handbook.globaldatabarometer.org/guidance/#the-research-process)**
-
+## The Research Process
 The Barometer uses an iterative process to generate robust, validated data. The following diagram and sequence of steps outline the data collection process.
 
 ![barometer_research_process](https://globaldatabarometer.org/wp-content/uploads/2021/06/research_process.png)
