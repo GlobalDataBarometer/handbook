@@ -41,7 +41,7 @@ Additionally, researchers must provide in the justification box a short justific
 
 	**Source:** Article describing history of campaign for data protection law in country.
 	
-	![Justification](/img/justification.png)
+	
 	
 In most cases, a “No” response to an existence question will mean the indicator’s other sub-questions do not need to be completed. 
 
@@ -218,7 +218,7 @@ The following example is a real justification provided by a researcher for the O
 	(3): https://codx.ca/odx-invests-in-ontario-open-data-ventures/
 	(4): http://open.canada.ca/en/apps "
 
-	![Justification](/img/justification.png)
+	
 	
 You should always provide a justification, even when you answer “No” to an existence question.
 
@@ -264,6 +264,6 @@ For each indicator, the survey tool provides a research journal. Researchers sho
 	Searched for “Data protection COVID-19” and reviewed content from the ICO: looked for the best source to use, and confirmed dates of documents. 
 	Checked results when talking with a civil society informant on June 22nd to discuss a number of different questions. Discussed whether migrants' judgement should be “No” or “Partially” — see justification for conclusion."
 	
-	![Example research journal](/img/research-journal.png)
+	
 
 
