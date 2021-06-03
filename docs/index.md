@@ -76,11 +76,11 @@ The 2021 pilot edition examines seven themes:
 
 *   [Climate action](http://handbook.globaldatabarometer.org/themes/Climate%20Action/);
 *   [Company information](http://handbook.globaldatabarometer.org/themes/Company%20Information/)—developed with[ Open Ownership](https://www.openownership.org/);
-*   [Health](http://handbook.globaldatabarometer.org/themes/Health/) & COVID-19—developed with input from the[ Open Data Charter](https://opendatacharter.net/);
+*   [Health and COVID-19]((Health%20&%20COVID-19.md))—developed with input from the[ Open Data Charter](https://opendatacharter.net/);
 *   [Land](http://handbook.globaldatabarometer.org/themes/Land/)—developed with the[ Land Portal](https://www.landportal.org/);
 *   [Political integrity](http://handbook.globaldatabarometer.org/themes/Political%20Integrity/)—developed with[ Transparency International](https://www.transparency.org/en) and the[ Open Government Partnership](https://www.opengovpartnership.org/);
-*   Public finance—developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/blog_open_public.php?IdToOpen=7220);
-*   [Public procurement](http://handbook.globaldatabarometer.org/themes/Procurement/)—developed with[ ](https://www.open-contracting.org/)the [Open Contracting Partnership](https://www.open-contracting.org/).
+*   [Public finance](Public Finance.md) -developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/blog_open_public.php?IdToOpen=7220);
+*   [Public procurement](Public Procurement.md)—developed with[ ](https://www.open-contracting.org/)the [Open Contracting Partnership](https://www.open-contracting.org/).
 
 These themes allow us to examine data for public good in significantly different kinds of data ecosystems and to speak to a range of government functions and sustainable development goals, while benefiting, as well, from the deep expertise of partners.
 
