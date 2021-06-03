@@ -52,7 +52,7 @@ If the researcher confirms that no examples that are the focus of the indicator 
 
 	**Justification:** A data protection law has been proposed a number of times by civil society, and introduced as a draft by opposition parties. However, it has no reasonable prospect of becoming law. 
 
-	**Source: **Article describing history of campaign for data protection law in country.** 
+	**Source:** Article describing history of campaign for data protection law in country.
 
 ### Locating the best example
 
