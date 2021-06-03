@@ -71,7 +71,7 @@ The Barometer is organized around four pillars or core areas of assessment: gove
 
 ### Themes
 
-The 2021 pilot edition examines 7 themes:
+The 2021 pilot edition examines seven themes:
 
 
 *   [Climate action](http://handbook.globaldatabarometer.org/themes/Climate%20Action/);
