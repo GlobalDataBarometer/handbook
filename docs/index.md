@@ -30,7 +30,7 @@ For the 2021 pilot edition we are combining three approaches to understand data 
 
 *   We are investigating core data governance and data capabilities; 
 *   We are doing a deep dive into a larger data ecosystem with well-established data practices: the intersection of money, property, and power; 
-*   We are exploring two areas of urgent global concern where changed data practices are increasingly called for: climate action and health.
+*   We are exploring two areas of urgent global concern where changed data practices are increasingly called for: climate action and health and COVID-19.
 
 The 2021 pilot edition of the Global Data Barometer also explores several research innovations that depart from its predecessor study:
 
@@ -138,10 +138,10 @@ We aim to expand our approach in future editions.
 
 #### COVID-19
 
-In the health & COVID-19 thematic module, the Barometer assesses COVID-19–related datasets directly, using both primary indicators and indicators built from secondary data sources. In many countries, the coronavirus pandemic has also affected data policies and practices more broadly, whether through the establishment of new data cooperatives or the suspension of particular data governance provisions. Consequently, to investigate COVID-19 as a cross-cutting concern, we also draw on data collected via sub-questions in other modules to identify regulations that have changed in light of COVID-19, and impacts of COVID-19 on the availability and use of certain datasets.
+In the health & COVID-19 thematic module, the Barometer assesses COVID-19–related datasets directly, using both primary indicators and others built from secondary data sources. In many countries, the coronavirus pandemic has also affected data policies and practices more broadly, whether through the establishment of new data cooperatives or the suspension of particular data governance provisions. Consequently, to investigate COVID-19 as a cross-cutting concern, we also draw on data collected via sub-questions in other modules to identify regulations that have changed in light of COVID-19, and impacts of COVID-19 on the availability and use of certain datasets.
 
 
 #### Artificial Intelligence
 
-The pilot edition of the Barometer examines emerging AI practices through a mixture of primary indicators and indicators built from secondary data sources. Sub-questions in governance indicators assess how/if governance frameworks are addressing artificial intelligence; sub-questions in use indicators track algorithmic uses of datasets. We are also exploring secondary data sources, both to complement these approaches and to track relevant capacities to deploy AI for the public good in conjunction with the Barometer’s core capability module.
+The pilot edition of the Barometer examines emerging AI practices through a mixture of primary indicators and others built from secondary data sources. Sub-questions in governance indicators assess how/if governance frameworks are addressing artificial intelligence; sub-questions in use indicators track algorithmic uses of datasets. We are also exploring secondary data sources, both to complement these approaches and to track relevant capacities to deploy AI for the public good in conjunction with the Barometer’s core capability module.
 
