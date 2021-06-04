@@ -75,12 +75,12 @@ The 2021 pilot edition examines seven themes:
 
 
 *   [Climate action](themes/Climate Action);
-*   [Company information](../themes/Company Information.md)—developed with[ Open Ownership](https://www.openownership.org/);
-*   [Health and COVID-19](../themes/Health & COVID-19.md)—developed with input from the[ Open Data Charter](https://opendatacharter.net/);
-*   [Land](../Land.md)—developed with the[ Land Portal](https://www.landportal.org/);
-*   [Political integrity](../themes/Political Integrity.md)—developed with[ Transparency International](https://www.transparency.org/en) and the[ Open Government Partnership](https://www.opengovpartnership.org/);
-*   [Public finance](../themes/Public Finance.md/) -developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/blog_open_public.php?IdToOpen=7220);
-*   [Public procurement](Public Procurement.md)—developed with[ ](https://www.open-contracting.org/)the [Open Contracting Partnership](https://www.open-contracting.org/).
+*   [Company information](themes/Company Information)—developed with[ Open Ownership](https://www.openownership.org/);
+*   [Health and COVID-19](themes/Health & COVID-19)—developed with input from the[ Open Data Charter](https://opendatacharter.net/);
+*   [Land](themes/Land.md)—developed with the[ Land Portal](https://www.landportal.org/);
+*   [Political integrity](themes/Political Integrity)—developed with[ Transparency International](https://www.transparency.org/en) and the[ Open Government Partnership](https://www.opengovpartnership.org/);
+*   [Public finance](themes/Public Finance) -developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/blog_open_public.php?IdToOpen=7220);
+*   [Public procurement](themes/Public Procurement)—developed with[ ](https://www.open-contracting.org/)the [Open Contracting Partnership](https://www.open-contracting.org/).
 
 These themes allow us to examine data for public good in significantly different kinds of data ecosystems and to speak to a range of government functions and sustainable development goals, while benefiting, as well, from the deep expertise of partners.
 
@@ -89,7 +89,7 @@ These themes allow us to examine data for public good in significantly different
 
 Modules, divided into core modules and thematic modules, implement the Barometer’s pillars and themes and structure the survey for presentation to researchers, reviewers, and users of GDB data. Modules vary in scope and size; weights applied during index calculations will balance their influence on the overall Barometer score.
 
-**Core modules** correspond to data [governance](../themes/Governance.md) and [capability](../themes/Capability.md), two of the Barometer’s pillars. These standalone modules contain indicators designed to provide a country-wide assessment of two of the most critical issue areas for developing an effective data ecosystem. Additional indicators on governance and capability in the thematic modules complement these core modules. The other two pillars of the Barometer, availability and use and impact, are assessed through the thematic modules.
+**Core modules** correspond to data [governance](themes/Governance.md) and [capability](themes/Capability.md), two of the Barometer’s pillars. These standalone modules contain indicators designed to provide a country-wide assessment of two of the most critical issue areas for developing an effective data ecosystem. Additional indicators on governance and capability in the thematic modules complement these core modules. The other two pillars of the Barometer, availability and use and impact, are assessed through the thematic modules.
 
 **Thematic modules** investigate the interaction of governance, capability, availability, and use in specific domains or public policy areas.**<span style="text-decoration:underline;"> </span>**
 
