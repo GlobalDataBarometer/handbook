@@ -7,7 +7,7 @@ The primary indicators in the Global Data Barometer are framed as _to what exten
 Typically, indicator sub-questions are organized in three sections: **existence**, **elements**, and **extent**, and each indicator has a **research journal** and **justification and sources** section.
 
 
-## Question Status and Confidence
+## Indicator Status and Confidence
 
 
 ### Status
