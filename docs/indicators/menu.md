@@ -1,5 +1,5 @@
 * [All Indicators](index.md)
-* Core Modules
+* Core modules
     * Governance 
         * [Governance: Data protection](../indicators/G.GOVERNANCE.DPL.md)
         * [Governance: Open data Policy](../indicators/G.GOVERNANCE.ODPOLICY.md)
@@ -12,7 +12,7 @@
         * [Capability: Open data initiative](../indicators/C.CAPABILITIES.ODINIT.md)
         * [Capability: Government support for re-use](../indicators/C.CAPABILITIES.GOVSUPPORT.md)
         * [Capability: Sub-National](../indicators/C.CAPABILITIES.SUBNAT.md)
-* Thematic Modules 
+* Thematic modules 
     * Company Information 
         * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md)
         * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
