@@ -77,10 +77,10 @@ The 2021 pilot edition examines seven themes:
 *   [Climate action](/themes/Climate Action.md);
 *   [Company information](../themes/Company Information.md)—developed with[ Open Ownership](https://www.openownership.org/);
 *   [Health and COVID-19](../themes/Health & COVID-19.md)—developed with input from the[ Open Data Charter](https://opendatacharter.net/);
-*   [Land](../themes/Land.md)—developed with the[ Land Portal](https://www.landportal.org/);
+*   [Land](../Land.md)—developed with the[ Land Portal](https://www.landportal.org/);
 *   [Political integrity](../themes/Political Integrity.md)—developed with[ Transparency International](https://www.transparency.org/en) and the[ Open Government Partnership](https://www.opengovpartnership.org/);
-*   [Public finance](../themes/Public Finance.md) -developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/blog_open_public.php?IdToOpen=7220);
-*   [Public procurement](../themes/Public Procurement.md)—developed with[ ](https://www.open-contracting.org/)the [Open Contracting Partnership](https://www.open-contracting.org/).
+*   [Public finance](../themes/Public Finance.md/) -developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/blog_open_public.php?IdToOpen=7220);
+*   [Public procurement](Public Procurement.md)—developed with[ ](https://www.open-contracting.org/)the [Open Contracting Partnership](https://www.open-contracting.org/).
 
 These themes allow us to examine data for public good in significantly different kinds of data ecosystems and to speak to a range of government functions and sustainable development goals, while benefiting, as well, from the deep expertise of partners.
 
