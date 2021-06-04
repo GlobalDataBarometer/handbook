@@ -7,7 +7,7 @@
         * [Governance: Data management](../indicators/G.GOVERNANCE.DATAMANAGE.md)
         * [Governance: Language coverage & data](../indicators/G.GOVERNANCE.LANG.md)
         * [Governance: Accessibility coverage & data](../indicators/G.GOVERNANCE.ACCESSIBILITY.md)
-   * Capabilities 
+    * Capabilities
         * [Capability: Civil service trining](../indicators/C.CAPABILITIES.TRAIN.md)
         * [Capability: Open data initiative](../indicators/C.CAPABILITIES.ODINIT.md)
         * [Capability: Government support for re-use](../indicators/C.CAPABILITIES.GOVSUPPORT.md)
