@@ -6,7 +6,7 @@
         * [Governance: Data sharing frameworks](../indicators/G.GOVERNANCE.DATASHARING.md)
         * [Governance: Data management](../indicators/G.GOVERNANCE.DATAMANAGE.md)
         * [Governance: Language coverage & data](../indicators/G.GOVERNANCE.LANG.md)
-        * [Governance: Accessibility coverage & data](../indicators/G.GOVERNANCE.ACCESSIBILITY.md) 
+        * [Governance: Accessibility coverage & data](../indicators/G.GOVERNANCE.ACCESSIBILITY.md)
    * Capabilities 
         * [Capability: Civil service trining](../indicators/C.CAPABILITIES.TRAIN.md)
         * [Capability: Open data initiative](../indicators/C.CAPABILITIES.ODINIT.md)
