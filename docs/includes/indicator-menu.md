@@ -1,5 +1,5 @@
 
-## Core Modules
+## Core modules
 
 * Governance
     * [Governance: Data protection](../indicators/G.GOVERNANCE.DPL.md)
