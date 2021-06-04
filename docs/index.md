@@ -74,7 +74,7 @@ The Barometer is organized around four pillars or core areas of assessment: gove
 The 2021 pilot edition examines seven themes:
 
 
-*   [Climate action](Climate Action.md);
+*   [Climate action](/themes/Climate Action.md);
 *   [Company information](../themes/Company Information.md)—developed with[ Open Ownership](https://www.openownership.org/);
 *   [Health and COVID-19](../themes/Health & COVID-19.md)—developed with input from the[ Open Data Charter](https://opendatacharter.net/);
 *   [Land](../themes/Land.md)—developed with the[ Land Portal](https://www.landportal.org/);
