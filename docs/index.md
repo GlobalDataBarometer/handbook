@@ -22,7 +22,7 @@ Primary data collection is structured around a selection of country-wide indicat
 This handbook contains the primary indicators included in our expert survey. Prospective indicators drawing from secondary data sources will be released later in 2021. The handbook is a living document, to be updated as the pilot edition moves forward in its study of data for the public good.
  
  
-## 2021 Pilot Edition[](#2021-pilot-edition)
+## 2021 Pilot Edition
  
 For the 2021 pilot edition we are combining three approaches to understand data practices and policies around the world: 
 
@@ -61,7 +61,7 @@ The Barometer has adopted a _bright spots_ design approach with the intention of
 
 ## The Barometer Structure
 
-The overall structure of the Barometer was developed following a[ participatory design workshop](https://globaldatabarometer.org/2020/01/reporting-back-on-our-first-design-workshop/), which identified four pillars or core components, a range of potential themes, and a number of cross-cutting issues. The following description offers a snapshot of how the study’s structure addresses all of these; you can read more about the Barometer’s structure and process in the [methodology](https://handbook.globaldatabarometer.org/methodology/) section of the handbook.
+The overall structure of the Barometer was developed following a[ participatory design workshop](https://globaldatabarometer.org/2020/01/reporting-back-on-our-first-design-workshop/), which identified four pillars or core components, a range of potential themes, and a number of cross-cutting issues. The following description offers a snapshot of how the study’s structure addresses all of these; you can read more about the Barometer’s structure and process in the [methodology](methodology.md) section of the handbook.
 
 
 ### Pillars
@@ -74,13 +74,13 @@ The Barometer is organized around four pillars or core areas of assessment: gove
 The 2021 pilot edition examines seven themes:
 
 
-*   [Climate action](http://handbook.globaldatabarometer.org/themes/Climate%20Action/);
-*   [Company information](http://handbook.globaldatabarometer.org/themes/Company%20Information/)—developed with[ Open Ownership](https://www.openownership.org/);
-*   [Health and COVID-19]((Health%20&%20COVID-19.md))—developed with input from the[ Open Data Charter](https://opendatacharter.net/);
-*   [Land](http://handbook.globaldatabarometer.org/themes/Land/)—developed with the[ Land Portal](https://www.landportal.org/);
-*   [Political integrity](http://handbook.globaldatabarometer.org/themes/Political%20Integrity/)—developed with[ Transparency International](https://www.transparency.org/en) and the[ Open Government Partnership](https://www.opengovpartnership.org/);
-*   [Public finance](Public Finance.md) -developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/blog_open_public.php?IdToOpen=7220);
-*   [Public procurement](Public Procurement.md)—developed with[ ](https://www.open-contracting.org/)the [Open Contracting Partnership](https://www.open-contracting.org/).
+*   [Climate action](../themes/Climate Action.md);
+*   [Company information](../themes/Company Information.md)—developed with[ Open Ownership](https://www.openownership.org/);
+*   [Health and COVID-19](../themes/Health & COVID-19.md)—developed with input from the[ Open Data Charter](https://opendatacharter.net/);
+*   [Land](../themes/Land.md)—developed with the[ Land Portal](https://www.landportal.org/);
+*   [Political integrity](../themes/Political Integrity.md)—developed with[ Transparency International](https://www.transparency.org/en) and the[ Open Government Partnership](https://www.opengovpartnership.org/);
+*   [Public finance](../themes/Public Finance.md) -developed with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/blog_open_public.php?IdToOpen=7220);
+*   [Public procurement](../themes/Public Procurement.md)—developed with[ ](https://www.open-contracting.org/)the [Open Contracting Partnership](https://www.open-contracting.org/).
 
 These themes allow us to examine data for public good in significantly different kinds of data ecosystems and to speak to a range of government functions and sustainable development goals, while benefiting, as well, from the deep expertise of partners.
 
@@ -89,7 +89,7 @@ These themes allow us to examine data for public good in significantly different
 
 Modules, divided into core modules and thematic modules, implement the Barometer’s pillars and themes and structure the survey for presentation to researchers, reviewers, and users of GDB data. Modules vary in scope and size; weights applied during index calculations will balance their influence on the overall Barometer score.
 
-**Core modules** correspond to data [governance](http://handbook.globaldatabarometer.org/themes/Governance/) and [capability](http://handbook.globaldatabarometer.org/themes/Capability/), two of the Barometer’s pillars. These standalone modules contain indicators designed to provide a country-wide assessment of two of the most critical issue areas for developing an effective data ecosystem. Additional indicators on governance and capability in the thematic modules complement these core modules. The other two pillars of the Barometer, availability and use and impact, are assessed through the thematic modules.
+**Core modules** correspond to data [governance](../themes/Governance.md) and [capability](../themes/Capability.md), two of the Barometer’s pillars. These standalone modules contain indicators designed to provide a country-wide assessment of two of the most critical issue areas for developing an effective data ecosystem. Additional indicators on governance and capability in the thematic modules complement these core modules. The other two pillars of the Barometer, availability and use and impact, are assessed through the thematic modules.
 
 **Thematic modules** investigate the interaction of governance, capability, availability, and use in specific domains or public policy areas.**<span style="text-decoration:underline;"> </span>**
 
