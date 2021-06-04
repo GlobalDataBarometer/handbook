@@ -54,9 +54,9 @@ The Barometer uses an iterative process to generate robust, validated data. The 
 
 ### Starting points and searching
 
-For each primary indicator, indicator-specific research guidance contains suggested starting points; these may include sources to check, searches to run, and individuals to consult. 
+For each primary indicator, specific research guidance contains suggested starting points; these may include sources to check, searches to run, and individuals to consult. 
 
-As much as possible we have linked to existing research that researchers can check for evidence relevant to the indicator and its sub-questions. The search suggestions provided should be run on the most relevant or best available search engine for the country; these will need to be adapted and translated into relevant languages. Before setting up any interviews, researchers may wish to review the entire set of indicators to determine what interviews might be most useful to conduct. Researchers should also use their own expertise to identify other ways to answer questions. 
+As much as possible we have linked to existing information that researchers can check for evidence relevant to the indicator and its sub-questions. The search suggestions provided should be run on the most relevant or best available search engine for the country; these will need to be adapted and translated into relevant languages. Before setting up any interviews, researchers may wish to review the entire set of indicators to determine what interviews might be most useful to conduct. Researchers should also use their own expertise to identify other ways to answer questions. 
 
 Sub-questions have been designed to support keyword searching of documents and rapid review of datasets. We anticipate researchers will make extensive use of Ctrl-F / Cmd-F keyboard shortcuts to search inside documents and then check surrounding context, rather than reading every source document in full. 
 
