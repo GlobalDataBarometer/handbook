@@ -33,7 +33,7 @@ The researcher must check carefully whether anything meeting this definition exi
 
 If the researcher determines that there are no examples that correspond to an indicator—or if they cannot locate evidence of such existence—then they must explain in the research journal the research steps they took to come to this conclusion. 
 
-Additionally, researchers must provide in the justification box a short justification and source (if available), as well as any relevant context regarding this absence. Such context might include, for example, related evidence that did not fully match the requirements, evidence that was only available for times outside of the period defined in the study, etc.
+Additionally, researchers must provide in the justification box a short explanation and its source (if available), as well as any relevant context regarding this absence. Such context might include, for example, related evidence that did not fully match the requirements, evidence that was only available for times outside of the period defined in the study, etc.
 
 ??? example "For example..."
 
@@ -48,7 +48,7 @@ In most cases, a “No” response to an existence question will mean the indica
 
 ### When information is not online
 
-If the researcher finds evidence that information exists but isn’t available online—for example, because it is only available via an information request or by visiting the government agency in person—the researcher should select “information is not online.” Supporting questions will ask the researcher to explain and provide evidence about how the information can be accessed.
+If the researcher finds evidence that information exists but is not available online—for example, because it is only accesible via an information request or by visiting the government agency in person—the researcher should select “information is not online.” Supporting questions will ask the researcher to explain and provide evidence about how the information can be accessed.
 
 If the basic information that _is_ available online is sufficient to answer any of the element or extent sub-questions, the researcher should try to do so, providing corresponding evidence. If the basic information _isn’t_ sufficient to answer any other sub-questions, the researcher should mark those sub-questions “No” or similarly, as appropriate. 
 
@@ -57,7 +57,7 @@ The Barometer draws on desk research and interviews, with an explicit focus on e
 
 ### Locating the best example
 
-The Barometer uses a bright spots design, built to handle federal systems with flexibility. This means that, unless otherwise specified in the indicator guidance, researchers should look first for national examples (e.g., national law, nationally provided dataset) from the government. If no such example is identified, or the example identified appears weak (e.g., the answers to many other sub-questions are “No”), the researcher should then check for the presence of sub-national examples or, when relevant, examples that only apply to particular agencies.
+The Barometer uses a bright spots design, built to handle federal systems with flexibility. This means that, unless otherwise specified in the indicator guidance, researchers should look first for national examples (e.g., national law, nationally provided dataset) from the government. If no such example is identified, or the example appears weak (e.g. the answers to many other sub-questions are “No”), the researcher should then check for the presence of sub-national examples or, when relevant, those that only apply to particular agencies.
 
 If a sub-national example is **both stronger** **than the national example** **and** **representative of widespread practice** across the country, it can be assessed instead of the national example. This must be explained clearly in the justification box. Otherwise, the researcher should assess the national example and note any isolated sub-national examples they have identified in the justification box.
 
@@ -75,7 +75,7 @@ For related information, see also the section on “Handling multiple or fragmen
 
 ### Frameworks and the force of law
 
-Existence sub-questions in core governance indicators ask whether relevant laws, regulations, policies, and guidance have the **force of law**. Researchers should exercise their expert judgement when deciding whether relevant laws, regulations, policies, and guidance have the force of law. For example, compare these two cases:
+Existence sub-questions in core governance indicators ask whether relevant laws, regulations, policies, and/or guidance have the **force of law**. Researchers should exercise their expert judgement when deciding whether relevant laws, regulations, policies, and/or guidance have the force of law. For example, compare these two cases:
 
 
 
@@ -152,7 +152,7 @@ A small number of element sub-questions investigate barriers or blocks to data p
 
 One of the sub-questions related to **COVID-19 **is in a governance indicator, used only once; otherwise, most of the availability indicators ask a sub-question about the effect of COVID-19 on data availability (this sub-question is always the same). Wherever possible, we provide resources that have already assessed relevant COVID-19–related effects on data policies or practices in an individual indicator’s research guidance.
 
-Where no such resource is provided for an availability indicator—or where resources aren’t sufficiently comprehensive—the researcher should pursue two strategies: For both strategies, start by identifying where the relevant data has been located in the past or should be located and check first for announcements of relevant COVID-related changes. If there are no such announcements, first, conduct web searches for news articles reporting on COVID-related changes in collecting or publishing data in your country. Second, using the [Wayback Machine](https://web.archive.org/) of the Internet Archive, compare what the relevant site looked like in 2017, 2018, 2019, 2020, and 2021 to see if you can identify a pattern that has been disrupted in conjunction with the pandemic. Document your research steps in the research journal and explain your conclusions in the justification box.
+Where no such resource is provided for an availability indicator—or where resources are not sufficiently comprehensive—the researcher should pursue two strategies: For both strategies, start by identifying where the relevant data has been located in the past or should be located and check first for announcements of relevant COVID-related changes. If there are no such announcements, first, conduct web searches for news articles reporting on COVID-related changes in collecting or publishing data in your country. Second, using the [Wayback Machine](https://web.archive.org/) of the Internet Archive, compare what the relevant site looked like in 2017, 2018, 2019, 2020, and 2021 to see if you can identify a pattern that has been disrupted in conjunction with the pandemic. Document your research steps in the research journal and explain your conclusions in the justification box.
 
 Each availability indicator also asks about whether or not there is evidence of **missing data**. In some cases, the Barometer’s availability indicators pair directly with a related governance indicator. In those cases, assess against the data requirements of the relevant governing framework. In other cases, the indicator itself identifies a dataset(s) to assess against. 
 
