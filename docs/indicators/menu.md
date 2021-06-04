@@ -39,7 +39,7 @@
          * [Governance: Open public finance data](../indicators/G.PF.PUB-FINANCE.md)
          * [Availability: Budget and spending data](../indicators/A.PF.BUDGETSPEND.md)
     * Public Procurement 
-         * [Availability: Public procurement data](../indicators/A.PROCUREMENT.OC.md) 
+         * [Availability: Public procurement data](../indicators/A.PROCUREMENT.OC.md)
          * [Use: Procurement data analytics](../indicators/U.PROCUREMENT.ANALYTICS.md)
     * Climate Action 
          * [Availability: Emission](../indicators/A.CLIMATE.EMI.md)
