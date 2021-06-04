@@ -1,14 +1,14 @@
 
 ## Core Modules
 
-* Governance 
+* Governance
     * [Governance: Data protection](../indicators/G.GOVERNANCE.DPL.md)
     * [Governance: Open data Policy](../indicators/G.GOVERNANCE.ODPOLICY.md)
     * [Governance: Data sharing frameworks](../indicators/G.GOVERNANCE.DATASHARING.md)
     * [Governance: Data management](../indicators/G.GOVERNANCE.DATAMANAGE.md)
     * [Governance: Language coverage & data](../indicators/G.GOVERNANCE.LANG.md)
     * [Governance: Accessibility coverage & data](../indicators/G.GOVERNANCE.ACCESSIBILITY.md)
-* Capabilities 
+* Capabilities
     * [Capability: Civil service trining](../indicators/C.CAPABILITIES.TRAIN.md)
     * [Capability: Open data initiative](../indicators/C.CAPABILITIES.ODINIT.md)
     * [Capability: Government support for re-use](../indicators/C.CAPABILITIES.GOVSUPPORT.md)
@@ -16,12 +16,12 @@
     
 ## Thematic modules
 
-* Company Information 
+* Company Information
     * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md)
     * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
-    * [Availability: Company register](../indicators/A.COMPANY.REG.md)    
+    * [Availability: Company register](../indicators/A.COMPANY.REG.md)
     * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
-* Land 
+* Land
     * [Availability: Land tenure](../indicators/A.LAND.TENURE.md)
     * [Availability: Existing land use](../indicators/A.LAND.ELU.md)
     * [Use: Influencing policy for gender and inclusion](../indicators/U.LAND.GENDERINCLUSION.md)    
