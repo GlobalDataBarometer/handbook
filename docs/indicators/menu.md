@@ -16,7 +16,7 @@
     * Company Information 
         * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md)
         * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
-        * [Availability: Company register](../indicators/A.COMPANY.REG.md)    
+        * [Availability: Company register](../indicators/A.COMPANY.REG.md)
         * [Use: Corporate due diligence](../indicators/U.COMPANY.DUEDIL.md)
     * Land 
         * [Availability: Land tenure](../indicators/A.LAND.TENURE.md)
