@@ -159,7 +159,7 @@ a.toggle_sup_q {
 }
 
 
-#print-site-page > .md-typeset h2 {
+.md-typeset h2 {
     font-family: inherit;
     font-weight: 600;
     font-style: normal;
@@ -167,7 +167,7 @@ a.toggle_sup_q {
     color: #1a3453;
 }
 
-#print-site-page > .md-typeset h2 {
+.md-typeset h2 {
     font-family: inherit;
     font-weight: 600;
     font-style: normal;
@@ -175,7 +175,7 @@ a.toggle_sup_q {
     color: #1a3453;
 }
 
-#print-site-page > .md-typeset h3 {
+.md-typeset h3 {
     font-family: inherit;
     font-weight: 600;
     font-style: normal;
@@ -183,7 +183,7 @@ a.toggle_sup_q {
     color: #1a3453;
 }
 
-#print-site-page > .md-typeset p {
+.md-typeset p {
     font-family: inherit;
     font-weight: 400;
     font-style: normal;
@@ -191,7 +191,7 @@ a.toggle_sup_q {
     color: #333333;
 }
 
-#print-site-page > .md-typeset a {
+.md-typeset a {
     color: #256eb7;
 }
 
