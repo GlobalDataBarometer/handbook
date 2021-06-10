@@ -159,22 +159,6 @@ a.toggle_sup_q {
 }
 
 
-#print-site-page > .md-typeset h2 {
-    font-family: inherit;
-    font-weight: 600;
-    font-style: normal;
-    font-size: 36px;
-    color: #1a3453;
-}
-
-#print-site-page > .md-typeset h2 {
-    font-family: inherit;
-    font-weight: 600;
-    font-style: normal;
-    font-size: 32px;
-    color: #1a3453;
-}
-
 #print-site-page > .md-typeset h3 {
     font-family: inherit;
     font-weight: 600;
