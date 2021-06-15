@@ -21,6 +21,13 @@ plugins:
   - print-site:
         add_cover_page: true
         cover_page_template: "docs/assets/templates/custom_cover_page.tpl"
+        #Table of contents
+        add_table_of_contents: true
+        toc_title: 'Table of Contents'
+        toc_depth: 4
+        #Content-related
+        enumerate_headings: true
+        
 markdown_extensions:
   - toc:
       permalink: true
