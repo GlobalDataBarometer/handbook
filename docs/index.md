@@ -1,8 +1,5 @@
-# Global Data Barometer Research Handbook
+# Global Data Barometer Research Handbook 2021
 
-
-
-You are viewing the Global Data Barometer Research Handbook (2021).
 ## Introduction
 Data is a source of power. It can be exploited for private gain and used to limit freedom, and it can be deployed as a public good—a resource for tackling social challenges, enabling collaboration, driving innovation, and improving accountability.
 
