@@ -1,5 +1,4 @@
 * [Home](index.md)
-    * [Providing Feedback](annotate.md)
 * [Methodology](methodology.md)
 * [Guidance](guidance/)
 * [Indicators](indicators/)
