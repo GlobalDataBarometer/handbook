@@ -19,6 +19,8 @@ plugins:
   - macros:
       include_dir: docs/includes
   - print-site
+        add_cover_page: true
+        cover_page_template: "docs/assets/templates/custom_cover_page.tpl"
 markdown_extensions:
   - toc:
       permalink: true

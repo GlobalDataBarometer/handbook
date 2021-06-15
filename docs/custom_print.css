@@ -172,16 +172,7 @@ a.toggle_sup_q {
     color: #1a3453;
 }
 
-.cover-title {
-    text-align: center;
-    font-family: inherit;
-    font-weight: 600;
-    font-style: normal;
-    font-size: 56px;
-    color: #1a3453;
-}
-
-h1.nav-section-title, h2.nav-section-title, h3.nav-section-title, h4.nav-section-title, h5.nav-section-title, h6.nav-section-title, #print-site-page h1.nav-section-title, #print-site-page h2.nav-section-title, #print-site-page h3.nav-section-title, #print-site-page h4.nav-section-title, #print-site-page h5.nav-section-title, #print-site-page h6.nav-section-title {
+.nav-section-title {
     font-family: inherit;
     font-weight: 600;
     font-style: normal;
@@ -231,15 +222,6 @@ h1.nav-section-title, h2.nav-section-title, h3.nav-section-title, h4.nav-section
 .md-typeset blockquote {
     color: #222222;
     border-left: .1rem solid #5dcbca;
-}
-
-.md-typeset .admonition.note, .md-typeset details.note {
-    border-color: #5dcbca;
-}
-
-.admonition-title, .summary {
-    background-color: #f5f5f5;
-    border-left: .2rem solid #5dcbca;
 }
 
 
