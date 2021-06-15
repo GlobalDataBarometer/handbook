@@ -147,6 +147,10 @@ a.toggle_sup_q {
     display:block;
 }
 
+#print-page-toc {
+display:none; 
+}
+
 
 /* custom styles */
 
