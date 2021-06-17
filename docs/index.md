@@ -43,6 +43,8 @@ The 2021 pilot edition of the Global Data Barometer also explores several resear
 
 The Barometer’s structure, components, and weighting respond to a specific set of design principles.
 
+
+
 **Flexibility for government structure**
 
 While some countries set policy nationally, many countries operate within federal systems that mean that aspects of data policy, capability, availability, and use are shaped by sub-national governments. Indicators have been designed to accommodate this reality. In federal systems, researchers are able to provide a detailed assessment for a single sub-national context and indicate whether this is representative or not of other sub-national contexts.
@@ -136,6 +138,9 @@ We aim to expand our approach in future editions.
 #### COVID-19
 
 In the health & COVID-19 thematic module, the Barometer assesses COVID-19–related datasets directly, using both primary indicators and others built from secondary data sources. In many countries, the coronavirus pandemic has also affected data policies and practices more broadly, whether through the establishment of new data cooperatives or the suspension of particular data governance provisions. Consequently, to investigate COVID-19 as a cross-cutting concern, we also draw on data collected via sub-questions in other modules to identify regulations that have changed in light of COVID-19, and impacts of COVID-19 on the availability and use of certain datasets.
+
+
+
 
 
 #### Artificial Intelligence
