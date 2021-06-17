@@ -6,5 +6,5 @@
 &nbsp;
 &nbsp;
 &nbsp;
-    <p>Pilot Edition - 2021</p>
+    <h2>Pilot Edition - 2021</h2>
 
