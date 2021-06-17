@@ -148,15 +148,6 @@ a.toggle_sup_q {
 }
 
 
-   /* Very hacky hiding of menu tab! Remove later! */
-.md-tabs__inner>ul>li:nth-child(5) {
-    display: none;
-}
-
-.md-nav--primary>ul>li:nth-child(5) {
- 
-    display: none;
-}
 
 /* custom styles */
 
