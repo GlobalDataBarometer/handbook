@@ -42,6 +42,9 @@ Additionally, researchers must provide in the justification box a short explanat
 In most cases, a “No” response to an existence question will mean the indicator’s other sub-questions do not need to be completed. 
 
 
+
+
+
 ### When information is not online
 
 If the researcher finds evidence that information exists but is not available online—for example, because it is only accesible via an information request or by visiting the government agency in person—the researcher should select “information is not online.” Supporting questions will ask the researcher to explain and provide evidence about how the information can be accessed.
@@ -60,6 +63,9 @@ If a sub-national example is **both stronger** **than the national example** **a
 Generally, comprehensiveness issues will be addressed in an indicator’s extent sub-questions, which focus on geographic, jurisdictional, or institutional coverage.
 
 See the section on “Handling multiple or fragmentary evidence (elements)” for guidance on how to assess element sub-questions cases when relevant data is distributed across several datasets, each of which may be of different quality. 
+
+
+
 
 
 ### Handling multiple or fragmentary evidence (existence)
@@ -162,6 +168,8 @@ An indicator's extent sub-question is designed to explore whether what is being 
 The research guidance for individual indicators includes details on any specific coverage concerns. See also the preceding section on “Locating the best example” for guidance on how to approach coverage when selecting examples to evaluate.
 
 
+
+
 ### Meaningful positive impact
 
 The Barometer’s use indicators include an extent sub-question that asks whether there is evidence that the identified uses have had or are having meaningful positive impacts. To answer this, researchers should first look for evidence that reports on or contextualizes an identified use’s impacts. Sometimes the evidence of the use will also include evidence of its impact, sometimes it will require additional research.
@@ -186,6 +194,8 @@ The supporting evidence section allows you to attach up to five structured **lin
 Evidence should be in the public domain and should not include private documents. Each item of evidence can have a title and either attached file or URL.
 
 Choose the five most important sources to attach as structured evidence. In the justification box, cite all of the relevant sources.
+
+
 
 
 ## Justifications & Sources
