@@ -35,11 +35,7 @@ If the researcher determines that there are no examples that correspond to an in
 
 Additionally, researchers must provide in the justification box a short explanation and its source (if available), as well as any relevant context regarding this absence. Such context might include, for example, related evidence that did not fully match the requirements, evidence that was only available for times outside of the period defined in the study, etc.
 
-??? example "For example..."
-
-	**Justification:** A data protection law has been proposed a number of times by civil society, and introduced as a draft by opposition parties. However, it has no reasonable prospect of becoming law. 
-
-	**Source:** Article describing history of campaign for data protection law in country.
+![no_evidence](https://globaldatabarometer.org/wp-content/uploads/2021/06/no_evidence.png)
 	
 	
 	
@@ -207,18 +203,8 @@ You will need to create your own justifications based on the findings of your re
 
 The following example is a real justification provided by a researcher for the ODB:
 
-??? example "For example:"
+![justification](https://globaldatabarometer.org/wp-content/uploads/2021/06/justification.png)
 
-	"In 2017, Government of Canada's Social Sciences and Humanities Research Council (SSHRC) partnered with Compute Canada, Ontario Centres of Excellence and ThinkData Works launched the first “Human Dimensions Open Data Challenge”, organized as part of SSHRC’s Imagining Canada’s Future initiative (1). On 23 May 2017, two winning teams were awarded $3,000, and, as part of the challenge, will be provided access to Compute Canada cloud resources for the remainder of the calendar year. The top team was awarded an additional $5,000 and given four tickets and an invitation to present at the High Performance Computing Symposium (HPCS) on 5-9 June in Kingston, Ontario (2).
-	In October 2017, Canada’s Open Data Exchange (ODX) has launched their second investment into the Ontario startup ecosystem through the ODX Ventures program. Through a planned $438,000 investment into 10 Ontario-based companies, the program aims to accelerate data-focused projects which have traditionally struggled to secure funding. In December 2016, the first ODX Ventures cohort included $400,000 worth of investment across eight startups, and to date, has led to 26 unique contractors developing work in the open data space (3).
-	To support a culture of innovation, there is an online apps gallery hosts mobile apps, web apps and visualizations made with federal data (4). There is also a Community Page where dataset, discussions and apps are gathered based on interest (e.g. agriculture, education, nature and environment). 
-	## Sources
-	(1): http://www.sshrc-crsh.gc.ca/society-societe/community-communite/hdodc-ddodh-eng.aspx
-	(2): https://www.computecanada.ca/events/human-dimensions-open-data-challenge/
-	(3): https://codx.ca/odx-invests-in-ontario-open-data-ventures/
-	(4): http://open.canada.ca/en/apps "
-
-	
 	
 You should always provide a justification, even when you answer “No” to an existence question.
 
@@ -256,14 +242,8 @@ Researchers should exercise professional judgment to determine whether opinions 
 For each indicator, the survey tool provides a research journal. Researchers should use this to briefly record the steps they take to carry out their research. The research journal is not published, but is used to support the review process. The research journal holds particular relevance when reviewing indicators where no evidence of existence was found, since reviewers will need to inspect the research process followed to reach this conclusion. 
 
 
+![research_journal](https://globaldatabarometer.org/wp-content/uploads/2021/06/research_journal.png)
 
-??? example "For example..."
-
-	In this example, the research journal entry describes the steps taken to respond to an indicator.
-	"Followed source guidance to look at DLA Piper Data Protection Laws database & Greanleaf tables of privacy laws: used this to review the element sub-questions. Searched with Google for “UK Data Protection Migrants” based on past awareness of an “immigration exemption” and looked at the first three results. Sources used included in the supporting evidence section. 
-	Searched for “Data protection COVID-19” and reviewed content from the ICO: looked for the best source to use, and confirmed dates of documents. 
-	Checked results when talking with a civil society informant on June 22nd to discuss a number of different questions. Discussed whether migrants' judgement should be “No” or “Partially” — see justification for conclusion."
-	
 	
 
 
