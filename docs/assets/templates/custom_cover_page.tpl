@@ -2,6 +2,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
     <h1>Global Data Barometer Research Handbook</h1>    
 &nbsp;
 &nbsp;
