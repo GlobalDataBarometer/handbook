@@ -5,7 +5,7 @@
     <img src="https://globaldatabarometer.org/wp-content/uploads/2020/10/favicon.png" />
 &nbsp;
 
-    <h2>Pilot Edition - 2021</h2>
+    <h2>Pilot edition - 2021</h2>
 
 
   
