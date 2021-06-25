@@ -18,20 +18,25 @@ plugins:
       nav_file: menu.md
   - macros:
       include_dir: docs/includes
+  - print-site:
+        add_cover_page: true
+        cover_page_template: "docs/assets/templates/custom_cover_page.tpl"
+        #Table of contents
+        add_table_of_contents: true
+        toc_title: 'Table of Contents'
+        toc_depth: 4
+        #Content-related
+        enumerate_headings: true
+        
 markdown_extensions:
   - toc:
       permalink: true
   - admonition
   - attr_list
-  - pymdownx.tabbed
-  - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid-experimental
           format: !!python/name:pymdownx.superfences.fence_code_format
-extra_javascript:
-  - https://hypothes.is/embed.js
-  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
 extra_css:
   - custom.css
